@@ -29,6 +29,17 @@ For collecting data from Discord, please refer to [**DiscordChatExporter**](http
 #### Data Dictionary
 
 - **Discord_message**
+
+| **Variable Name**	| **Unit**	| **Data Type**	| **Description** |
+| ------- | ------- | ------- | ------- |
+| AuthorID	| Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
+| Author | Name |int64 | The name or username of the discussion participants. |
+| Date_original | Minutes | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in minutes). |
+| Date | Days | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+| Content | Text | int64 | The textual content of the discussions, including messages, comments, and replies. |
+| Attachments | File/Link/Image | int64 | Information regarding any attached files, images, or media shared within the discussions. |
+| Reactions | Emoji | int64 | A record of reactions, such as emojis, associated with each discussion, offering insights into community engagement and sentiment. |
+
 | **Variable Name**	| **Unit**	| **Data Type**	| **Description** |
 | ------- | ------- | ------- | ------- |
 | AuthorID	| Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
