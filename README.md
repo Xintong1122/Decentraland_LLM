@@ -9,162 +9,120 @@ by **Xintong Wu**, **Peiting Tsai**, **Nicholas Yuan** , **Michael Yu**, **Greg 
 *Figure 1. Flowchart for sentiment analysis using LLM.*
 
 ## Table of Contents
-- [Data](https://github.com/SciEcon/IncidentsAnalysis2023/tree/main#data)
-- [Code](https://github.com/SciEcon/IncidentsAnalysis2023/tree/main#code)
-- [Images]()
-- [Reference](https://github.com/SciEcon/IncidentsAnalysis2023/tree/main#references)
+- [Data](https://github.com/Xintong1122/Decentraland_LLM/tree/main#data)
+- [Code](https://github.com/Xintong1122/Decentraland_LLM/tree/main#code)
+- [Images](https://github.com/Xintong1122/Decentraland_LLM/tree/main#images)
+- [Reference](https://github.com/Xintong1122/Decentraland_LLM/tree/main#references)
 
 ## Data
-<img src="https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Images/Data_collection.png" alt="data-collected-flowchart" /><br/>
-
-*Figure 2. Data collected flowchart: created by [Miro](https://miro.com/).*
 
 ### Collected Data
 
-For collecting data from the flipside, please refer to [**flipsidecrypto.xyz**](https://flipsidecrypto.xyz/siavashj/cex-to-dex-and-dex-to-cex-cex-to-dex-and-dex-to-cex-arIDpY).
+For collecting data from Discord, please refer to [**DiscordChatExporter**](https://github.com/Tyrrrz/DiscordChatExporter). DiscordChatExporter is an application that can be used to export message history from any Discord channel to a file.
 
 #### Meta Data Infomation
 
 | Data Files  | Data Type | Data Content |
 | ------------- | ------------- | ------------- |
-| [1_Price.csv](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Data/collected/1_Price.csv)  | Queried  | WETH Daily Price  |
-| [2_CEX_to_DEX.csv](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Data/collected/2_CEX_to_DEX.csv)  | Queried  | CEX to DEX Transaction Flow  |
-| [2_DEX_to_CEX.csv](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Data/collected/2_DEX_to_CEX.csv)  | Queried  | DEX to CEX Transaction Flow  |
-| [2_Netflow.csv](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Data/collected/2_Netflow.csv)  | Queried  | NetFlow  |
+| [Discord_message.csv](https://github.com/Xintong1122/Decentraland_LLM/blob/main/Data/Discord_message.csv)  | Queried  | original Discord User Messages |
 
 #### Data Dictionary
-- **WETH Daily Price**
 
-| Variable Name          | Description           | Frequency | Unit | Type |
-|------------------------|-----------------------|-----------|------|------|
-| DATE                   | Date of price      | Daily     | Date | Date |
-| Price                  | Daily price of WETH   | Daily     | USD | Numeric |
-
-
-- **Transaction between CEX and DEX**
- 
-| Variable Name          | Description           | Frequency | Unit | Type |
-|------------------------|-----------------------|-----------|------|------|
-| DATE                   | Date of transfer      | Daily     | Date | Date |
-| N\_TRANSFER            | Number of transfers   | Daily     | Count| Integer |
-| USER                   | User identifier      | Daily     | Count | Integer |
-| AMOUNT\_USD            | Amount in USD         | Daily     | USD  | Numeric |
-| AMOUNT\_ETH            | Amount in ETH         | Daily     | ETH  | Numeric |
-| CEX                    | Centralized Exchange  | Daily     | Text | Categorical | 
-| DEX                    | Decentralized Exchange| Daily     | Text | Categorical |
+- **Discord_message**
+| **Variable Name**	| **Unit**	| **Data Type**	| **Description** |
+| ------- | ------- | ------- | ------- |
+| AuthorID	| Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
+| Author | Name |int64 | The name or username of the discussion participants. |
+| Date_original | Minutes | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in minutes). |
+| Date | Days | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+| Content | Text | int64 | The textual content of the discussions, including messages, comments, and replies. |
+| Attachments | File/Link/Image | int64 | Information regarding any attached files, images, or media shared within the discussions. |
+| Reactions | Emoji | int64 | A record of reactions, such as emojis, associated with each discussion, offering insights into community engagement and sentiment. |
 
 
-- **Netflow between CEX and DEX**
-  
-| Variable Name         | Description            | Frequency | Unit     | Type    | 
-| --------------------- | ---------------------- | --------- | -------- | ------- |
-| DATE                  | Transaction Date       | Daily     | Date     | Date    | 
-| USER $\rightarrow$ DEX | User Interaction with DEX | Daily  | Count    | Integer |
-| USER $\rightarrow$ CEX | User Interaction with CEX | Daily  | Count    | Integer |
-| Net User              | Net User Interaction    | Daily     | Count    | Integer |
-| Amount $\rightarrow$ DEX | Amount Related to DEX | Daily | USD      | Numeric |
-| Amount $\rightarrow$ CEX | Amount Related to CEX | Daily | USD      | Numeric |
-| Net Amount ETH        | Net ETH Amount          | Daily     | ETH      | Numeric |
-| Amount \$ $\rightarrow$ DEX | Amount in USD Related to DEX | Daily | USD | Numeric |
-| Amount \$ $\rightarrow$ CEX | Amount in USD Related to CEX | Daily | USD | Numeric |
-| Net Amount \$         | Net USD Amount          | Daily     | USD      | Numeric |
-
-
-### Analyzed Data
+### Processed Data
 
 #### Meta Data Infomation
 
 | Data Files  | Data Type | Data Content |
 | ------------- | ------------- | ------------- |
-| [1_price_statistics_data.csv](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Data/analyzed/1_price_statistics_data.csv)  | Analyzed  | statistics data of WETH daily price |
-| [2_cex_to_dex_statistics_data.csv](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Data/analyzed/2_cex_to_dex_statistics_data.csv)  | Analyzed  | statistics data of CEX to DEX transaction flow  |
-| [2_dex_to_cex_statistics_data.csv](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Data/analyzed/2_dex_to_cex_statistics_data.csv)  | Analyzed  | statistics data of DEX to CEX transaction flow  |
-| [2_netflow_statistics_data.csv](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Data/analyzed/2_netflow_statistics_data.csv)  | Analyzed  | statistics data of NetFlow   |
-
+| [message_cleaned.csv](https://github.com/Xintong1122/Decentraland_LLM/blob/main/Data/message_cleaned.csv)  | Processed | cleaned Discord User Message |
+| [message_with_sentiment.csv](https://github.com/Xintong1122/Decentraland_LLM/blob/main/Data/message_with_sentiment.csv)  | Processed | Discord User Message with sentiment label and sentiment score |
+| [daily_sentiment_scores.csv](https://github.com/Xintong1122/Decentraland_LLM/blob/main/Data/daily_sentiment_scores.csv)  | Processed | Discord User Message with daily sentiment label and sentiment score  |
 
 #### Data Dictionary
-- **WETH Daily Price**
 
-| Variable Name          | Description           | Frequency | Unit | Type |
-|------------------------|-----------------------|-----------|------|------|
-| DATE                   | Date of price      | Daily     | Date | Date |
-| Mean_PreviousMonth    	|Mean price of Previous Month|	Monthly|	USD|	Numeric|
-| Mean_NextMonth	        |Mean price of Next Month| Monthly|	USD|	Numeric|
-| Mean_Difference	       |Price difference between Next Month and Previous Month	|Monthly	|USD	|Numeric|
+- **message_cleaned**
+| **Variable Name**	| **Unit**	| **Data Type**	| **Description** |
+| ------- | ------- | ------- | ------- |
+| AuthorID	| Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
+| Author | Name |int64 | The name or username of the discussion participants. |
+| Date_original | Minutes | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in minutes). |
+| Date | Days | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+| Content | Text | int64 | The textual content of the discussions, including messages, comments, and replies. |
+| Attachments | File/Link/Image | int64 | Information regarding any attached files, images, or media shared within the discussions. |
+| Reactions | Emoji | int64 | A record of reactions, such as emojis, associated with each discussion, offering insights into community engagement and sentiment. |
 
-- **Transaction between CEX and DEX**
+- **message_with_sentiment**
+| **Variable Name**	| **Unit**	| **Data Type**	| **Description** |
+| ------- | ------- | ------- | ------- |
+| AuthorID	| Count | int64 | This identifier uniquely distinguishes the authors of the discussions, allowing for tracking and attribution. |
+| Author | Name |int64 | The name or username of the discussion participants. |
+| Date_original | Minutes | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in minutes). |
+| Date | Days | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+| Content | Text | int64 | The textual content of the discussions, including messages, comments, and replies. |
+| Attachments | File/Link/Image | int64 | Information regarding any attached files, images, or media shared within the discussions. |
+| Reactions | Emoji | int64 | A record of reactions, such as emojis, associated with each discussion, offering insights into community engagement and sentiment. |
+|LLM1_Label	| Text | int64 | Sentiment labels derived from respective LLM analyses|
+|LLM1_Score	| Count | float | Sentiment scores derived from respective LLM analyses|
+|LLM2_Label	| Text | int64 | Sentiment labels derived from respective LLM analyses|
+|LLM2_Score	| Count | float | Sentiment scores derived from respective LLM analyses|
+|LLM3_Label	| Text | int64 | Sentiment labels derived from respective LLM analyses|
+|LLM3_Score | Count | float | Sentiment scores derived from respective LLM analyses|
 
-| Variable Name          | Description           | Frequency | Unit | Type |
-|------------------------|-----------------------|-----------|------|------|
-| DATE                   | Date of transfer      | Daily     | Date | Date |
-| Mean_PreviousMonth    	|Mean transaction of Previous Month|	Monthly|	USD|	Numeric|
-| Mean_NextMonth	        |Mean transaction of Next Month| Monthly|	USD|	Numeric|
-| Mean_Difference	       |Transaction difference between Next Month and Previous Month	|Monthly	|USD	|Numeric|
 
+- **message_with_sentiment**
+| **Variable Name**	| **Unit**	| **Data Type**	| **Description** |
+| ------- | ------- | ------- | ------- |
+| Date | Days | int64 | The timestamp indicates when each discussion occurred, providing a temporal dimension to the dataset (shown in days). |
+|LLM1_Sentiment_Score	| Count | float | Sentiment scores derived from respective LLM analyses|
+|LLM1_Label	| Text | int64 | Sentiment labels derived from respective LLM analyses|
+|LLM2_Sentiment_Score	| Count | float | Sentiment scores derived from respective LLM analyses|
+|LLM2_Label	| Text | int64 | Sentiment labels derived from respective LLM analyses|
+|LLM3_Sentiment_Score | Count | float | Sentiment scores derived from respective LLM analyses|
+|LLM3_Label	| Text | int64 | Sentiment labels derived from respective LLM analyses|
 
-- **Netflow between CEX and DEX**
-
-| Variable Name          | Description           | Frequency | Unit | Type |
-|------------------------|-----------------------|-----------|------|------|
-| DATE                   | Date of transfer      | Daily     | Date | Date |
-| Mean_PreviousMonth    	|Mean newflow transaction of Previous Month|	Monthly|	USD|	Numeric|
-| Mean_NextMonth	        |Mean newflow transaction of Next Month| Monthly|	USD|	Numeric|
-| Mean_Difference	       |Newflow transaction difference between Next Month and Previous Month	|Monthly	|USD	|Numeric|
 
 ## Code
 | **Code Type** | **Google Colab File Name**|
 | ------- | ------- |
-| Collection | [Data_Collection.ipynb](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Code/Data_Collection.ipynb) |
-| Analysis | [Data_Analysis.ipynb](https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Code/Data_Analysis.ipynb) |
+| Process | [Processing_data.ipynb](https://github.com/Xintong1122/Decentraland_LLM/blob/main/Code/Processing_data.ipynb) |
+| Analysis | [Analyzing_data.ipynb](https://github.com/Xintong1122/Decentraland_LLM/blob/main/Code/Analyzing_data.ipynb) |
 
 ## Images
 
-### Price
-<table>
-    <tr>
-        <td><img src="./Images/Price.png" alt="price"></td>
-        <td><a href="./Images/Price.png">./Images/Price.png</a></td>
-    </tr>
-</table>
+<img src="https://github.com/Xintong1122/Decentraland_LLM/blob/main/Figures/Sentiment%20Classification%20Bar%20Chart.png" width="600" alt="article-overview" /><br/>
 
-### Transaction Flow
-<table>
-    <tr>
-        <td> DEX to CEX </td>
-        <td><img src="./Images/DtC.png" alt="dex-to-cex"></td>
-        <td><a href="./Images/DtC.png">./Images/DtC.png</a></td>
-    </tr>
-    <tr>
-        <td> DEX to CEX </td>
-        <td><img src="./Images/CtD.png" alt="cex-to-dex"></td>
-        <td><a href="./Images/CtD.png">./Images/CtD.png</a></td>
-    </tr>
-    <tr>
-        <td> NetFlow </td>
-        <td><img src="./Images/Net.png" alt="NetFlow"></td>
-        <td><a href="./Images/Net.png">./Images/Net.png</a></td>
-    </tr>
-</table>
+*Figure 2. Sentiment Classification Bar Chart.*
 
-### Exchanges Trading Process
-<table>
-    <tr>
-        <td> Binance WETH trading process </td>
-        <td><img src="./Images/Binance.png" alt="binance"></td>
-        <td><a href="./Images/Binance.png">./Images/Binance.png</a></td>
-    </tr>
-    <tr>
-        <td> Uniswap WETH trading process </td>
-        <td><img src="./Images/Uniswap.png" alt="uniswap"></td>
-        <td><a href="./Images/Uniswap.png">./Images/Uniswap.png</a></td>
-    </tr>
-</table>
+<img src="https://github.com/Xintong1122/Decentraland_LLM/blob/main/Figures/Sentiment%20Score%20Heatmap.png" width="600" alt="article-overview" /><br/>
+
+*Figure 3. Sentiment Score Heatmap.*
+
+<img src="https://github.com/Xintong1122/Decentraland_LLM/blob/main/Figures/Sentiment%20Distribution%20Box%20Plot.png" width="600" alt="article-overview" /><br/>
+
+*Figure 4. Sentiment Distribution Box Plot.*
+
+<img src="https://github.com/Xintong1122/Decentraland_LLM/blob/main/Figures/Daily%20Average%20Sentiment%20Score%20Line%20Chart.png" width="600" alt="article-overview" /><br/>
+
+*Figure 5. Daily Average Sentiment Score Line Chart.*
+
 
 
 ## References
-**Data Reference:** flipsidecrypto ( https://flipsidecrypto.xyz/)
+**Data Reference:** Discord (https://discord.com/)
 
-**Code Reference:** flipsidecrypto/siavashj (https://flipsidecrypto.xyz/siavashj/q/1sPLGdSteDlQ)
+**Model Reference:** Hugging Face (https://huggingface.co/)
 
 
 
