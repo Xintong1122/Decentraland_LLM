@@ -1,12 +1,12 @@
-# Decentraland_LLM
+# SentiGPT: Analyzing User Sentiment in Decentraland using Large Language Models
 
 ## *Supplementary resources, data, and code*
 by **Xintong Wu**, **Peiting Tsai**, **Nicholas Yuan** , **Michael Yu**, **Greg Sun** and **Luyao Zhang***
 (* *the corresponding author: lz183@duke.edu*)
 
-<img src="https://github.com/SciEcon/IncidentsAnalysis2023/blob/main/Images/whole_structure.png" width="600" alt="article-overview" /><br/>
+<img src="https://github.com/Xintong1122/Decentraland_LLM/blob/main/Figures/Flowchart%20for%20sentiment%20analysis%20using%20LLM.png" width="600" alt="article-overview" /><br/>
 
-*Figure 1. Overview of the article: created by [Miro](https://miro.com/).*
+*Figure 1. Flowchart for sentiment analysis using LLM.*
 
 ## Table of Contents
 - [Data](https://github.com/SciEcon/IncidentsAnalysis2023/tree/main#data)
