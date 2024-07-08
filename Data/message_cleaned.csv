@@ -1,0 +1,873 @@
+AuthorID,Author,Date,Content,Attachments,Reactions
+1059889776657956894,_cicadaa_,01/31/2024 08:41 PM,"Hi, @helpimstreaming. Apologies for the late response. Can you please share more information about this issue you noticed with the events? I compared the set durations of some events from our event page in-world vs. the duration of the events from https://decentraland.org/events/, but everything looks fine.",,
+177549205836005385,4minijk.zk,02/01/2024 12:42 AM,Hello everyone I'm a decentral.games poker player ð,,
+539828406511075328,_.valkyr._,02/01/2024 01:31 AM,"Welcome to Decentraland's Discord server, @Minijk.zk.ð",,
+320633232737435649,newbia,02/01/2024 11:39 PM,evning,,
+413016797433036810,dr1719,02/02/2024 01:49 AM,hi,,
+1103876849601368135,zigg.,02/02/2024 01:59 AM,Hello @Rd! Welcome to Decentraland's Discord server. ð«¡,,
+317680953432735744,gtrfrost,02/02/2024 07:22 AM,Hello. Just read the new Manifesto. Regarding the cliffs at the end of the DCL map. PLEASE do not forget that Aetheria extends beyond the normal MAP!!!!!,,
+1135333989859725343,cathyloom,02/02/2024 08:17 AM,They mentioned swimming mechanics and wondering if the map is going to extend beyond borders. How is Aetheria already extended?,,
+317680953432735744,gtrfrost,02/02/2024 08:19 AM,If they made the cliffs at a square of 300 x 300 then there will be a cut from some Aetheria lands. I am sure this has been considered in their plans.,,ð (1)
+1135333989859725343,cathyloom,02/02/2024 08:20 AM,I would love to purchase a piece of land on the water and build a nice holiday hut,,
+1135333989859725343,cathyloom,02/02/2024 08:21 AM,"I never heard of this Aetheria, prob cos Im new. Either way exciting development for real.",,ð (1)
+329781973973336074,ile9466,02/02/2024 10:26 AM,Yeah implies that you can glide down like Link with a sailcloth. And then sail around to other dcl towns/worlds like windwaker?,,
+329781973973336074,ile9466,02/02/2024 10:30 AM,Really need the foundation to deliver on this 2024 manifesto ððð,,
+317680953432735744,gtrfrost,02/02/2024 10:48 AM,Being able to see buildings in the distance is going to be a game changer :)],,
+1135333989859725343,cathyloom,02/02/2024 12:01 PM,Let's not forget the added utility and immersivenes VR brings.,,
+1187966286718845030,greakagent,02/02/2024 02:40 PM,GM everyone,,
+1187966286718845030,greakagent,02/02/2024 02:40 PM,I am new here,,
+1187966286718845030,greakagent,02/02/2024 02:41 PM,"I wanted to ask that, is decntraland has anything to do with ENS?",,
+320633232737435649,newbia,02/02/2024 06:41 PM,hey,,
+1059889776657956894,_cicadaa_,02/02/2024 09:03 PM,"Hi, @Greakagent. Welcome to Decentraland's Community server. I'll be happy to look into your inquiry. However, can you please share more details about it? If you're asking about what Decentraland offers to ENS domain owners, let me introduce the WORLDs feature to you. WORLDs are your own personal 3D space in the Decentraland ecosystem that exists outside the boundaries of Genesis City. You can learn more about this feature here: https://docs.decentraland.org/creator/worlds/about/.",,
+1059889776657956894,_cicadaa_,02/02/2024 09:07 PM,"Hi, @Romeo. We're glad that you made it to Decentraland's Community server. Please take some time to review our server's #rules and refrain from duplicating your posts. I see you also posted this topic on the #â£-random channel, so I will remove this post from this channel now.",,
+320633232737435649,newbia,02/02/2024 09:17 PM,afternoon,,ð (1)
+320633232737435649,newbia,02/02/2024 09:21 PM,how is every one,,
+1031627999025561680,exercuicem,02/02/2024 10:51 PM,Hello,,
+320633232737435649,newbia,02/02/2024 10:54 PM,ð,,
+1198441642110234677,hendra0943,02/03/2024 12:48 AM,Hi,,
+1187966286718845030,greakagent,02/03/2024 01:42 AM,"I meant, will decentraland ever build on ENS?",,
+1059889776657956894,_cicadaa_,02/03/2024 03:23 AM,"Hi, @Hen dra. ð Welcome to Decentraland's Community server.",,
+1059889776657956894,_cicadaa_,02/03/2024 04:23 AM,"Thanks for your response. However, I apologize, but I think I'm still trying to read between the lines about your inquiry. When it comes to ENS, the only information we have is the one I shared with you earlier, which was about the WORLDs feature. You may also check this blog post for more details about it: https://decentraland.org/blog/about-decentraland/decentraland-worlds-your-own-virtual-space.",,
+302285734977470465,peanutbutta.,02/03/2024 05:06 AM,Decentraland names have been built off ens since 2020,,
+408120655351906334,nft_world,02/03/2024 06:53 AM,DCL names are subdomains of the dcl.eth ENS. For example name.dcl.eth,,ð (1)
+408120655351906334,nft_world,02/03/2024 06:55 AM,You can use ENS records to connect your DCL name to your metamask account in order to receive payments at name.dcl.eth,,
+408120655351906334,nft_world,02/03/2024 06:56 AM,You can also edit the ENS records in order to redirect name.dcl.eth.link to a website address,,
+320633232737435649,newbia,02/03/2024 08:45 PM,afternoonh,,
+1077449354908012625,williamedwards7407,02/03/2024 09:02 PM,Hey,,
+1059889776657956894,_cicadaa_,02/03/2024 09:03 PM,"Hi, @williamedwards7407. ð  Welcome to Decentraland's Community server.",,
+320633232737435649,newbia,02/03/2024 09:25 PM,how is every one,,
+884866257868959764,zcayel.,02/04/2024 12:41 AM,anyone having problems with deploying worlds/lands?,,
+938404132065275954,skillet,02/04/2024 12:46 AM,"To deploy a scene to a world via the CLI, you need to specify the target server in the deployment command-line and use the Worlds Content Server URL.",,
+884866257868959764,zcayel.,02/04/2024 12:59 AM,ty 4 d rply,,
+874076939349020763,cheddarqueso,02/04/2024 04:08 AM,Hola ð,,
+727289299661226055,sacrateghoul,02/04/2024 05:38 AM,"ðHowdy'O Folks!!
+How are you all doing in this beautiful day, you adorable people?",,
+874076939349020763,cheddarqueso,02/04/2024 07:52 AM,Running around in world right now. ABC adventures is on. :pepecryrun:,,
+477608808911339522,_pumaa,02/04/2024 08:52 AM,does the decentraland marketplace take a fee?,,
+408120655351906334,nft_world,02/04/2024 10:29 AM,Yeah 2.5%. Paid by the seller (deducted from sale amount),,
+320633232737435649,newbia,02/04/2024 02:40 PM,morning,,
+812073316272832572,azubuikem,02/04/2024 04:57 PM,Austin here,,
+1103876849601368135,zigg.,02/04/2024 09:30 PM,Hello @Augustine! Welcome to Decentraland's Discord server. ð«¡,,
+320633232737435649,newbia,02/04/2024 10:06 PM,afternoon,,
+1135483113464664074,.gh00st3r,02/05/2024 12:08 AM,hlo,,
+978750967040340058,fernandestpix14,02/05/2024 02:01 AM,hi ð,,
+1103876849601368135,zigg.,02/05/2024 02:06 AM,Hello @FERNANDESTPIX! Welcome to Decentraland's Discord server. ð¤,,
+930863264366215280,psyriiis,02/05/2024 06:31 AM,im working on some dates for future events saturday nights 11pm est. how many peeps are feeling that,,
+930863264366215280,psyriiis,02/05/2024 06:32 AM,i wanna make you all dance irl and also in world,,partyfrog (2)
+978750967040340058,fernandestpix14,02/05/2024 07:51 AM,ð,,
+320633232737435649,newbia,02/05/2024 01:46 PM,morning,,
+874076939349020763,cheddarqueso,02/05/2024 08:45 PM,Buenos dias. ð¤ª,,
+320633232737435649,newbia,02/05/2024 09:07 PM,hey,,
+702729940029800519,metaryuk,02/05/2024 09:22 PM,anyone owning a Decentraland NAME or planning to mint/purchase a NAME must read this. https://twitter.com/DecentralandDAO/status/1754214225051099513,,"â¤ï¸ (1),ð¯ (1),dcl (1)"
+1187490076175908884,benjitateofficial,02/05/2024 10:16 PM,This is Kandy Girl my new discord account,,
+1187490076175908884,benjitateofficial,02/05/2024 10:16 PM,looking for blender designers again,,
+539828406511075328,_.valkyr._,02/05/2024 10:57 PM,"Welcome back, @Benji Tate.ð If you're looking for 3D designers, feel free to post this on the #ð¿-scenes-and-3d channel. You can also reach out to our verified studio partners here: https://studios.decentraland.org/studios.:dcl:",,
+398892114387402762,cybermike.,02/05/2024 11:06 PM,"unable to dm you, if you need a hand with some of the events",,
+1109588882552520704,jonesy3410,02/06/2024 07:00 AM,"Hi new to coding on the ethereum platform and to Decentraland so far Ive learned alot hope to not only learn, but also maybe become apart of something huge!",,
+647267762598707201,olgaforce3d,02/06/2024 08:24 AM,Hello! Very excited to join as a MESH builder!,,
+678661973071888395,yokk8077,02/06/2024 11:10 AM,Does anyone know if fashion week is happening this March?,,
+414202843139014657,catadecruz,02/06/2024 12:36 PM,Fashion Week is postponed to September this year.,,
+678661973071888395,yokk8077,02/06/2024 12:38 PM,thank you for the infoð,,
+827795767410425906,mavic_holic,02/06/2024 04:50 PM,hi guys,,
+827795767410425906,mavic_holic,02/06/2024 04:52 PM,"I want to know the initial price of 1 Land NFT in Decentraland, does anyone remember it?",,
+827795767410425906,mavic_holic,02/06/2024 04:53 PM,How can I check,,
+827795767410425906,mavic_holic,02/06/2024 04:58 PM,"hmm the first ""mint price""",,
+827795767410425906,mavic_holic,02/06/2024 05:58 PM,hi guys,,
+398892114387402762,cybermike.,02/06/2024 06:51 PM,"I think the starting bid price was 1,000 mana back in late 2017 auction",,
+874076939349020763,cheddarqueso,02/06/2024 08:52 PM,Me too! I've invited a few professors from my school and hopefully will be giving a guided tour for some students. ð,,"â¨ (2),dcl (2)"
+1059889776657956894,_cicadaa_,02/06/2024 09:38 PM,"Hey, @Jonesy. ð We're glad that you made it to Decentraland's Community server. We'll look forward to your future content in DCL.",,
+398892114387402762,cybermike.,02/07/2024 01:16 AM,Link to my work if you need anything built! (under community tab - share your work) https://discord.com/channels/417796904760639509/797191580150005760/1204475051965947946,,
+913578493974028328,shuki415,02/07/2024 08:48 AM,hi,,
+456226577798135808,Deleted User,02/07/2024 08:48 AM,Hello,,
+702729940029800519,metaryuk,02/07/2024 09:11 AM,@Kaze_no_Kai skem,,"â (1),ð (1)"
+1052595248011935804,Tickets#5253,02/07/2024 08:03 PM,A ticket was created here: #deleted-channel,,
+1125481015104782336,mohsen01370,02/07/2024 09:14 PM,"I'm new and don't know where to start
+Can we make money without buying land?
+
+What is the price of the cheapest land?",,
+653872791304667147,mohy2020,02/07/2024 09:34 PM,hi,,ð (1)
+930218624738799667,monaghanj_55477,02/07/2024 09:41 PM,Hi I am Jonathan,,ð (1)
+539828406511075328,_.valkyr._,02/07/2024 09:52 PM,"Hi there, @omid, @mohy_Jabbari and @monaghanj. Welcome to Decentraland's Discord server.:dcl:",,
+539828406511075328,_.valkyr._,02/07/2024 09:59 PM,"You may earn without purchasing land. You can sell wearables, which you can obtain by participating in events or playing games. Once you've collected those wearable rewards, you can sell them on the marketplace.ð Also, here is the marketplace link for the cheapest lands: https://decentraland.org/marketplace/lands?assetType=nft&section=land&vendor=decentraland&page=1&sortBy=cheapest&onlyOnSale=true",,
+1204593804544442388,rtilse,02/08/2024 09:04 AM,Hi,,ð (2)
+385951661585072130,kbone84,02/08/2024 01:57 PM,hello,,ð (1)
+1168809898570686507,anne67skillmanf9,02/08/2024 07:51 PM,Hello,,
+1103876849601368135,zigg.,02/08/2024 08:01 PM,Hello @rtil and @Kbone! Welcome to Decentraland's Discord server. ð«¡,,
+1174724766075195392,malcom_vr,02/09/2024 01:04 AM,Hello,,ð (1)
+989044607788679219,bocat__,02/09/2024 11:48 AM,what a silly place,,
+1135333989859725343,cathyloom,02/09/2024 12:04 PM,gm,,
+408120655351906334,nft_world,02/09/2024 12:08 PM,"Hey @Ryan | Covalent! Your interest in Decentraland is appreciated but we donât allow advertising for things that arenât directly DCL related here (rule #6 in #rules). That being said, I think youâd be fine reposting that in #â£-random",,
+823509199665364992,chinuaj,02/09/2024 12:44 PM,Hi,,ð (1)
+1039243397526982786,ryan_covalent,02/10/2024 02:59 AM,"Ah I see, thanks @Doug | NFTWorld.io , I'll repost there. Thanks ð",,ð (1)
+917406351167193088,natusdavid,02/10/2024 04:49 AM,Hello,,
+1059889776657956894,_cicadaa_,02/10/2024 05:02 AM,"Hi, @david. ð  Welcome to Decentraland's Community server.",,ð¯ (1)
+408120655351906334,nft_world,02/10/2024 04:02 PM,Hey @david! We donât allow advertising here as per rule #6 of the #rules. Feel free to try #â£-random instead,,ð (1)
+874076939349020763,cheddarqueso,02/10/2024 10:42 PM,"GM DCL fam. Would you like to bring back the old hearts emote? Did you know that Decentraland has a system for the community to request features directly with the foundation? Please comment and vote on my proposal to bring hearts back to Decentraland! I made a tweet about it here with a link to the Canny post. Love love. ð 
+
+https://twitter.com/CheddarQueso3D/status/1756325633255194688?s=19",,â¤ï¸ (1)
+1074033998797480046,lacoisi,02/11/2024 08:05 AM,:parrot:,,
+1020690169529118831,backside.,02/11/2024 10:42 PM,hi guys,,
+1020690169529118831,backside.,02/11/2024 10:43 PM,how can we make sense of the tokenIds of the lands?,,
+1020690169529118831,backside.,02/11/2024 10:44 PM,some IDs are 'normal' like 5654,,
+1020690169529118831,backside.,02/11/2024 10:44 PM,"and others are the decoded X&Y location values according to the contract, like 115792089237316195423570985008687907841019819456486779354776098140369474027597",,
+1020690169529118831,backside.,02/11/2024 10:44 PM,is there a way to fetch all existing tokenIds?,,
+1103876849601368135,zigg.,02/11/2024 11:13 PM,"Yes, you can fetch all existing tokenIds for Decentraland parcels by interacting with the Decentraland smart contract on the Ethereum blockchain using tools like Web3.js or ethers.js. Query the contract to retrieve the list of tokenIds, then process the results accordingly. Remember to consider potential costs, such as gas fees, and scalability issues. Additionally, I advise conducting your own research (DYOR) on this matter.",,
+1020690169529118831,backside.,02/11/2024 11:26 PM,reading chain-data has no gas fees luckily : ),,
+1020690169529118831,backside.,02/11/2024 11:27 PM,i think i see some logic unfolding in the contracts,,
+1020690169529118831,backside.,02/11/2024 11:27 PM,there is estates and single-lands,,
+1020690169529118831,backside.,02/11/2024 11:28 PM,and the estates have (what looks like) chronological tokenId order,,
+1020690169529118831,backside.,02/11/2024 11:28 PM,"and the single-lands, are encoded location params",,
+1103876849601368135,zigg.,02/12/2024 12:00 AM,"Additionally, you might find valuable information in this document: https://docs.decentraland.org/player/market/api/. ð",,
+1020690169529118831,backside.,02/12/2024 12:14 AM,"nice, thanks for your help friend ðª",,ð«¡ (1)
+903039778172313660,dolores2850,02/12/2024 03:02 AM,"Hi, I just joined.  Anyone creating a cube display in Decentraland for the MESHFair?  Iâve started working on it but wondered what tools others have found to be valuable for created the 3D effect.",,
+1103876849601368135,zigg.,02/12/2024 04:11 AM,"Hello, if you're interested in learning about the tools used to create a cube in the MESHFair, you can join our Discord channel #dclaw24-creators and ask your question there. Our community members can provide you with information about the tools they're using for cube creation.",,â¤ï¸ (1)
+903039778172313660,dolores2850,02/12/2024 01:16 PM,Thank you for the info.,,
+785575360871137340,paypass,02/12/2024 09:15 PM,"Hello guys, how i can unlock my MANA from Terraform?
+
+0xCCA95E580BbbD04851EBFB85F77FD46C9b91f11C, this contract i locked in",,
+539828406511075328,_.valkyr._,02/12/2024 10:55 PM,"Hi there, @PayPass.ð¤  Welcome to Decentraland's Discord server. For concerns regarding the Terraform event, kindly send an email to legal@decentraland.org for more information. Thank you for your cooperation and understanding.",,
+869232321398706277,xp_zzz,02/12/2024 11:40 PM,"Hi there, Maybe someone can enlighten me on DAO voting question here. I have polygon MANA in my wallet, though it doesn't look like I have any voting power, ie my votes are not casted.",,
+539828406511075328,_.valkyr._,02/13/2024 12:37 AM,"Welcome to Decentraland's Discord server, @XpZ.ð Regarding your voting power concerns, make sure that you are logged in using the correct wallet that is holding the MANA (and other relevant tokens like NAMES or LAND). You can also clear your browser's cache and check again. For more information about voting power, kindly refer to this documentation page: https://docs.decentraland.org/player/general/dao/dao-userguide/#voting-power.",,
+388053082837090304,hueppow,02/13/2024 02:50 AM,"Hi everyone , somebody know when MVFW24 approximately?",,
+183099323142242304,hprivakos,02/13/2024 03:13 AM,"Sometimes within 2024, approximately",,ð¤£ (2)
+879228085399068712,kimbonft,02/13/2024 06:58 AM,Fashion Week will be in Septemeber this year.,,â¤ï¸ (1)
+1135333989859725343,cathyloom,02/13/2024 07:00 AM,@Kim Currier should we expect to see brand partnerships?,,
+1196628044866138132,victoriatrade15,02/13/2024 08:03 PM,Good morning,,
+869232321398706277,xp_zzz,02/13/2024 09:08 PM,"I'm logged in, my wallet contains MANA (on Polygon) and is on ethereum mainnet but I can clearly see the comment ""You need at 1 VP to vote"" Does it matter if MANA was sent to the wallet after the snapshot?",,
+539828406511075328,_.valkyr._,02/13/2024 10:29 PM,Hello!ð Your voting power when you cast a vote on a proposal will be equivalent to your balance at the time the proposal was made. Kindly refer to this link: https://docs.decentraland.org/player/general/dao/dao-userguide/#what-happens-if-your-voting-power-changes-before-a-proposal-closes.,,
+1132707547325931530,drakesunders,02/14/2024 12:18 AM,Hi all,,ð (1)
+539828406511075328,_.valkyr._,02/14/2024 01:12 AM,"Good morning, @Victoria.ð Hello, @Drake Sunders. Welcome to Decentraland's Discord server.:dcl:",,
+1196628044866138132,victoriatrade15,02/14/2024 01:14 AM,Thanks,,
+388053082837090304,hueppow,02/14/2024 04:46 AM,"Hi, any idea how to add highlight to the estate? 
+Like..  ""2 parcels away from road"" ?",,
+539828406511075328,_.valkyr._,02/14/2024 05:15 AM,"Hello there, @Huepow.ð  Can you elaborate on what you mean by adding a highlight to the estate?",,
+203806308330110976,metawolf93,02/14/2024 10:41 AM,that can be interesting @support,,ð (1)
+431375377462460416,fancydcl,02/14/2024 01:20 PM,Itâs been here for 3 hours with everyone attedâ¦ ð yikes,,
+989044607788679219,bocat__,02/14/2024 01:23 PM,Mods might just be happy to have content in decentraland?,,ð (1)
+1043083389462401146,kaze_no_kai,02/14/2024 02:18 PM,"Hey, just removed the spam and banned the users, even if they use the ""everyone"" tag it will not send out a notification",,â¤ï¸ (1)
+1196628044866138132,victoriatrade15,02/14/2024 07:51 PM,Good morning ð©·,,
+329507498937548801,helpimstreaming,02/14/2024 08:55 PM,https://twitter.com/helpimstreaming/status/1757736448961270194,,
+329507498937548801,helpimstreaming,02/14/2024 08:55 PM,happy v day!,,
+1196628044866138132,victoriatrade15,02/14/2024 09:29 PM,Happy Valentineâs Day ð©·,,â¤ï¸ (1)
+388053082837090304,hueppow,02/15/2024 01:01 AM,"At the market, when chose parcel or estate , you can see highlights like â1 parcel away from roadâ ,  so I just minted estate a week or two ago from 4 parcels and I donât have there highlight â2 parcels away from roadâ , how can I add this highlight ?",,
+879228085399068712,kimbonft,02/15/2024 01:46 AM,Happy Valetine's Day!,,
+1103876849601368135,zigg.,02/15/2024 01:57 AM,"Hi there, you have the option to modify the description of your estate or parcel on the Marketplace. For detailed instructions, you can refer to this document: https://docs.decentraland.org/player/market/land-manager/#manage-your-land.",,
+796578488151965696,jbtg79,02/15/2024 04:14 AM,ð¦,,
+388053082837090304,hueppow,02/15/2024 05:09 AM,"Hi, thereâs no such an option to add highlights with icon like â1 parcel awayâ from road 
+
+I saw on the market parcels with highlight â3 parcels awayâ  from road and my Estate have 2 parcels away from road but i donât have any highlight icons about it 
+
+Thatâs why Iâm asking , how I can get this highlight, because I supposed to have it but somehow itâs not there 
+
+This is my estate - https://decentraland.org/marketplace/contracts/0x959e104e1a4db6317fa58f8295f586e1a978c297/tokens/5650",,
+203806308330110976,metawolf93,02/15/2024 09:56 AM,"Wich is the right tag to report users? 
+I will use that in the future",,
+408120655351906334,nft_world,02/15/2024 11:17 AM,Feel free to tag any mod in the future ð Me or Kaze or any others,,ð¯ (2)
+115105805228834825,smashe,02/15/2024 06:04 PM,hi where can i open a ticket?,,
+1052595248011935804,Tickets#5253,02/15/2024 08:15 PM,A ticket was created here: #deleted-channel,,
+1196628044866138132,victoriatrade15,02/15/2024 09:15 PM,Good morning âï¸,,
+539828406511075328,_.valkyr._,02/16/2024 02:03 AM,"Hi there, @Andres. Thank you for reaching out and informing us about the error you encountered with the Builder.ð«¡ I received a similar report like this a while ago. Could you try clearing your browser's cache or using a different browser to see if you'll still have that specific error?",,
+1144288244377337866,andres_14407,02/16/2024 02:05 AM,"Hi @Valkyr, I've cleared the cache and used Chrome and Edge, but the error keeps popping up.",,ðµï¸ (1)
+1052595248011935804,Tickets#5253,02/16/2024 04:27 AM,A ticket was created here: #deleted-channel,,
+278222593276772352,tobikcc,02/16/2024 05:00 AM,Llamada en espaÃ±ol jugando Golfcraft en Decentraland ðªð¸ https://discord.com/channels/859207165826301952/1200092454351802452,,
+1043083389462401146,kaze_no_kai,02/16/2024 03:32 PM,hey @The Real Cory Williams please keep the content relevant to Decentraland ð,,
+395078008387665921,pabloest,02/16/2024 04:17 PM,Gm,,GM (1)
+544861882696204288,proteo4934,02/16/2024 06:55 PM,@KDust | $LINGO make sure the time on your signing device is correct,,
+1059889776657956894,_cicadaa_,02/16/2024 08:55 PM,"Thanks for sharing your insight on this case, @Proteus. @KDust | $LINGO, if the issue persists after following Proteus' advice, please let me know at your earliest convenience and we'll look into it further. ð",,
+1052595248011935804,Tickets#5253,02/16/2024 08:56 PM,A ticket was created here: #deleted-channel,,
+1052595248011935804,Tickets#5253,02/16/2024 09:52 PM,A ticket was created here: #deleted-channel,,
+575675615055970304,m4e1kj3oln2a4m,02/17/2024 03:31 AM,why now english pls massage me !!!,,
+1059889776657956894,_cicadaa_,02/17/2024 03:55 AM,"Hi, @m4e1kj3oln2a4m. Do you have inquiries about Decentraland, or are you experiencing any issues with the platform? If so, please share more details about it, and I'll do my best to assist you.",,
+388053082837090304,hueppow,02/17/2024 08:36 AM,"Hi, who or what  is responsible for parcel/estate âHighlightsâ ? âHighlightsâ about how much parcels away from road or district which are added in marketplace",,
+921778394436358144,_ahsk_,02/17/2024 05:53 PM,"Hey everyone
+Does this project require kyc?",,
+1103876849601368135,zigg.,02/17/2024 08:11 PM,"Hello there, Decentraland is not requiring KYC.",,
+1103876849601368135,zigg.,02/17/2024 08:56 PM,"Hello @Huepow, I understand that you're curious about who or what determines the parcel/estate ""Highlights"" in the marketplace, specifically regarding the distance from roads or districts. I'll bring this matter to our team, and we'll keep you updated once we've received information from them.",,ð (1)
+719767000913805392,capturemotion,02/18/2024 12:03 AM,is the error auth chain is required mean something?,,
+719767000913805392,capturemotion,02/18/2024 12:03 AM,I cannot log in,,
+1103876849601368135,zigg.,02/18/2024 12:05 AM,"Hello, could you please specify the authentication error you're encountering? Would you mind sharing a screenshot here for clarification?",,
+719767000913805392,capturemotion,02/18/2024 12:06 AM,can we load images here,,
+719767000913805392,capturemotion,02/18/2024 12:06 AM,looks like you cant,,
+719767000913805392,capturemotion,02/18/2024 12:07 AM,loaded it in help thread,,
+1103876849601368135,zigg.,02/18/2024 12:08 AM,I will continue to communicate with you in the #help channel.,,
+411020777802956801,zm4g,02/18/2024 04:42 AM,hii,,
+1103876849601368135,zigg.,02/18/2024 04:44 AM,Hello @AstriiD`! Welcome to Decentraland's Discord server. ð«¡,,
+411020777802956801,zm4g,02/18/2024 04:44 AM,"Hello, can i ask something?",,
+1103876849601368135,zigg.,02/18/2024 04:56 AM,Certainly! How can I assist you?,,
+1055866909255549030,pizzarte,02/18/2024 02:58 PM,"Good morning everyone
+I need help on opening the decentraland App for Windows...
+I haven't been able to open the application for 4 days
+this is the Message:
+
+Something went wrong
+
+Renderer not found: C:\Users\pizza\AppData\Roaming\explorer-desktop-launcher\renderer\prod\unity-renderer-windows.exe
+
+I open it with Chrome Browser
+
+waiting for an answer I wish you a good Sunday",,
+1055866909255549030,pizzarte,02/18/2024 02:59 PM,_Good morning everyone I need help on opening the decentraland App for Windows... I haven't been able to open the application for 4 days this is the Message:  Something went wrong  Renderer not found: C:\Users\pizza\AppData\Roaming\explorer-desktop-launcher\renderer\prod\unity-renderer-windows.exe  I open it with Chrome Browser  waiting for an answer I wish you a good Sunday_,,
+263038747979939843,theankou,02/18/2024 04:45 PM,why this discord don't have a bot that will send listed lands / wearables on market?,,
+539828406511075328,_.valkyr._,02/18/2024 08:14 PM,"Welcome to Decentraland's Discord server, @PiZzArte.ð  I'm sorry that you're unable to open the Decentraland desktop application, and I appreciate the details you provided. I was able to run Decentraland (also on Windows), and I kindly suggest that you try to reinstall the application and check again. If the issue persists, please let me know as soon as possible.ð",,
+539828406511075328,_.valkyr._,02/18/2024 08:21 PM,"Thank you for the suggestion, @Kristian (DAPPCRAFT).ð«¡ I'll be sure to forward this to the team for further discussion.",,
+739451718575849523,charatan166,02/18/2024 11:03 PM,:parrot:,,
+678661973071888395,yokk8077,02/18/2024 11:30 PM,https://tenor.com/view/meow-dancing-cat-cat-dancing-meow-meow-meow-gif-14608759981751543562,,
+939666254908756018,poflies,02/19/2024 02:39 AM,hello),,
+539828406511075328,_.valkyr._,02/19/2024 05:01 AM,"Hello! Welcome to Decentraland's Discord server, @Poflies.ð¤",,
+388053082837090304,hueppow,02/19/2024 07:56 AM,"Thanks , please update me when you got any info about it ð",,
+340705491812352003,macabriot,02/19/2024 01:01 PM,"hi, @everyone",,
+901050017341665281,_sidxo,02/19/2024 07:12 PM,"Hi there, hope you're having a great monday",,
+901050017341665281,_sidxo,02/19/2024 07:17 PM,Wave if you're involved in this year's MeshFair â¥ï¸,,"dcl (2),ð¤ (3)"
+539828406511075328,_.valkyr._,02/19/2024 08:23 PM,You can also submit your feedback directly using the Canny page here: https://feedback.decentraland.org/.:dcl:,,
+866772976929996810,bacongrease2144,02/20/2024 02:08 AM,"@PiZzArte stop trying to friend request everyone when they load into genesis plaza, so annoying",,â (1)
+884866257868959764,zcayel.,02/20/2024 03:04 AM,we need more ppl like @PiZzArte,,â (1)
+1052595248011935804,Tickets#5253,02/20/2024 04:10 AM,A ticket was created here: #deleted-channel,,
+187313833159819267,moeron60,02/20/2024 06:40 AM,Hello everyone! Kinda new to DCL here...so I bought a parcel and there is already content in the space. How do I go about redoing or removing old stuff?,,
+408120655351906334,nft_world,02/20/2024 06:55 AM,Welcome! You can deploy your new content over it once you have created some,,
+930218624738799667,monaghanj_55477,02/20/2024 07:16 AM,"Hello! I won't be in town for the Decentraland Anniversary Party in Dubai, but I will be at ArtDubai - Are there any events for that? I am making a room in this years MESH Fair",,
+930218624738799667,monaghanj_55477,02/20/2024 07:20 AM,would love to connect with any metaverse peeps in Dubai,,
+879228085399068712,kimbonft,02/20/2024 07:27 AM,I recommend connecting with @serenaelis who is the Ambassador in Dubai. https://twitter.com/Serenaelis_,,
+930218624738799667,monaghanj_55477,02/20/2024 07:28 AM,Thank you!,,
+187313833159819267,moeron60,02/20/2024 11:04 AM,@Doug | NFTWorld.io thank you for the response! much appreciated. enjoying humans while we are still around lol,,Snoop_Dance01 (1)
+678661973071888395,yokk8077,02/20/2024 05:16 PM,"Hi, I noticed the time is 4pm - 7pm UTC, in gulf time that would be 8pm to 11pm in dubai correct",,
+1059889776657956894,_cicadaa_,02/20/2024 08:51 PM,"Hello, @Huepow. The parcel/estate's highlights in the marketplace are automatically added. Those highlights will not be visible if the parcel/estate is too far from a road or district.",,
+1108311231602905108,nakata5511,02/20/2024 09:32 PM,"Hello, I sent an email for my request. When does team reply?",,
+1059889776657956894,_cicadaa_,02/20/2024 09:43 PM,"Hey, @nakata. Our team (the Support Team) responds to emails at the earliest possible time. If you haven't received a response from us as of writing, please share more details about your concerns here, and I'll be happy to look into it for you.",,
+329507498937548801,helpimstreaming,02/20/2024 11:08 PM,happy 4th birthday dcl ð¼ ð¶ ð,,"â¤ï¸ (5),ð (2)"
+292814518453665793,koa_matt,02/20/2024 11:39 PM,DCL doing anything for the birthday?,,
+1059889776657956894,_cicadaa_,02/20/2024 11:47 PM,"I haven't seen an official announcement yet, @_Matt. But we'll surely let the whole community know via an official post once we confirm that something exciting from the Foundation is in the works. On the other hand, you may want to check this event by our very own Serenaelis: https://decentraland.org/events/event/?id=44c31cdd-7d3a-457e-8a91-3909899b3173.",,ð (1)
+1194502846855520287,cryptoking0160,02/21/2024 01:11 AM,Hello ð everyone,,
+1194502846855520287,cryptoking0160,02/21/2024 01:11 AM,Nice coummnity,,
+1052595248011935804,Tickets#5253,02/21/2024 01:31 AM,A ticket was created here: #deleted-channel,,
+463316750520287284,bigmouthmeta,02/21/2024 02:13 AM,Any chance I can apply as Head of Airdrops? ð¬,,
+1059889776657956894,_cicadaa_,02/21/2024 02:19 AM,"Hi, @BigMouth. Apologies for this, but your inquiry is a bit unclear to me. Can you please tell me what you exactly mean by ""Head of Airdrops""? If you're looking for open job positions in the Decentraland Foundation, please feel free to check this page: https://jobs.lever.co/Decentraland/.",,
+827201208300208139,brucebutters,02/21/2024 05:06 AM,What are the best sites for dcl metrics?  The dune dashboards seem to be outdated,,
+463316750520287284,bigmouthmeta,02/21/2024 05:24 AM,"I made up that role, but Iâll try thanks for the link",,â¤ï¸ (1)
+1059889776657956894,_cicadaa_,02/21/2024 05:31 AM,"Hey, @bruce. This webpage is the commonly used metrics/analytics page by the community: https://dcl-metrics.com/.",,
+408120655351906334,nft_world,02/21/2024 05:32 AM,That for historical data. https://dclnodes.io for current active users,,
+827201208300208139,brucebutters,02/21/2024 05:37 AM,Great thank you both,,ð (2)
+879228085399068712,kimbonft,02/21/2024 08:40 AM,Happy 4th birthday everyone! https://discord.com/channels/417796904760639509/433376431603580970/1209649262019874827,,
+668462630146408459,boss92160,02/21/2024 02:41 PM,hello all,,
+668462630146408459,boss92160,02/21/2024 02:41 PM,Need help pls One  FR ?,,
+884866257868959764,zcayel.,02/21/2024 03:24 PM,is it possible to include texture nodes or evee nodes in dcl builder/engine?,,
+695742210284585061,oguzsahan,02/21/2024 05:13 PM,hi,,
+1055866909255549030,pizzarte,02/21/2024 07:05 PM,I tried...but nothing....I'll try again as soon as I can....for the answer thanks....,,ð¤ (1)
+539828406511075328,_.valkyr._,02/21/2024 08:16 PM,"Welcome to Decentraland's Discord server, @oguzsahan.:dcl: Hello there, @Toriyama. How can we help you today?ð«¡",,
+539828406511075328,_.valkyr._,02/21/2024 08:36 PM,Would you mind providing more context for your inquiry about including nodes? Â I'll do my best to look into this further. Thanks!ð¤,,
+884866257868959764,zcayel.,02/21/2024 09:26 PM,"its commonly called ""evee nodes"" which cannot be baked with cycle, i will look a proper term for it, also importing light source would be great!",,ðµï¸ (1)
+539828406511075328,_.valkyr._,02/21/2024 10:25 PM,"Thank you for the update, @PiZzArte. If the problem persists, please notify me as soon as possible.ð«¡",,
+539828406511075328,_.valkyr._,02/21/2024 11:32 PM,"Upon reviewing our documentation concerning 3D textures (https://docs.decentraland.org/creator/3d-modeling/textures/), it appears that EEVEE nodes are not supported. We highly encourage you to share your suggestions through our official feedback platform at https://feedback.decentraland.org/, which will be reviewed further by the team. Thank you for your cooperation and understanding! ð",,ð¯ (1)
+884866257868959764,zcayel.,02/21/2024 11:43 PM,yes it will unlock many amazing aestethics such us ghibli and many effects,,
+884866257868959764,zcayel.,02/21/2024 11:44 PM,also the importing of light source will unlock more realistic graphics in dcl,,
+884866257868959764,zcayel.,02/21/2024 11:45 PM,thx for listening,,ð (1)
+1209463306608312322,wow_angel_1,02/22/2024 08:29 AM,Please dm me if you need a developer.,,
+705442868621344840,dgn_landlord,02/22/2024 10:19 AM,Hi guys! Is this confirmed metaverse Fashion week will happen in September in Decentraland ?,,
+414202843139014657,catadecruz,02/22/2024 01:17 PM,"Yes, to align with IRL Fashion Week.",,ð (1)
+1055866909255549030,pizzarte,02/22/2024 05:45 PM,Problem solved for now..... downloaded and installed successfully....â¥â¥â¥,,"ð (1),ð (1)"
+407148478423105537,alphaplus.xyz,02/22/2024 06:28 PM,hello guys,,
+705442868621344840,dgn_landlord,02/22/2024 08:08 PM,Great news. When will we have more info about it ?,,
+1059889776657956894,_cicadaa_,02/22/2024 08:38 PM,"Hey, @alphaplus. ð  We're glad that you made it to Decentraland's Community server.",,
+1059889776657956894,_cicadaa_,02/22/2024 08:41 PM,"We don't have a complete guide about it yet. But please rest assured that the whole community will be notified once it's ready. That said, please keep an eye on our official channels for announcements about the MVFW.",,
+705442868621344840,dgn_landlord,02/22/2024 09:44 PM,Awesome!,,â¤ï¸ (1)
+1101546123027558590,felipe_sanchezz,02/23/2024 01:15 AM,hola !!!! como estan??  soy Fito acabo de ingresar en la comunidad y deseando de interectuar con tod@s vosotr@s. un saludo,,
+1059889776657956894,_cicadaa_,02/23/2024 01:45 AM,"Hello, @Fito. Welcome to Decentraland's community server, and we hope you enjoy your stay. Please feel free to check the #ðªð¸-espaÃ±ol channel if you're more comfortable using your first language. *(Hola. Bienvenido al servidor comunitario de Decentraland y esperamos que disfrute su estadÃ­a. No dudes en consultar el canal #ðªð¸-espaÃ±ol si te sientes mÃ¡s cÃ³modo usando tu primer idioma.)* ð",,
+1101546123027558590,felipe_sanchezz,02/23/2024 01:45 AM,ok thank,,"â¤ï¸ (1),ð (1)"
+909636087977213994,steakandchill,02/23/2024 07:51 AM,Is there a music festival this year?,,
+408120655351906334,nft_world,02/23/2024 09:07 AM,Hey @ngt2100 this channel is for Decentraland content only. Thanks for understanding ð,,
+879228085399068712,kimbonft,02/23/2024 04:25 PM,That is currently planned for November,,
+232195507756335104,gloomycat85,02/23/2024 05:19 PM,Where did the job board go?ð,,
+1059889776657956894,_cicadaa_,02/23/2024 09:11 PM,"Hey, @Gloomy Cat. If you're looking for open job positions in the Decentraland Foundation, please feel free to check this page: https://jobs.lever.co/Decentraland/.",,ð (1)
+232195507756335104,gloomycat85,02/23/2024 09:14 PM,"Ah not that, I got name wrong, I was looking for hiring channel",,
+1059889776657956894,_cicadaa_,02/23/2024 09:18 PM,"Ohh. Thanks for clearing that up. We've archived the hiring channel that we had before. However, may use the #3d-modeling or #â£-random channel for hiring topics for now.",,
+232195507756335104,gloomycat85,02/23/2024 09:19 PM,Thank you,,â¤ï¸ (1)
+1059889776657956894,_cicadaa_,02/24/2024 04:19 AM,"Hey, @PlanetBinx. Please refrain from posting topics unrelated to Decentraland here and review our server's #rules. Any unrelated topics that still align with the rules can be posted on the #â£-random channel. I'll delete your post now.",,
+740207155205898312,neil_876,02/24/2024 05:51 AM,Hi,,ð (1)
+388053082837090304,hueppow,02/24/2024 06:03 AM,"Why Decentraland X account is not a company verified ? The difference is huge , especially when it comes to reach masses . This is the way X algorithm works",,
+388053082837090304,hueppow,02/24/2024 06:04 AM,Maybe thereâs a reason behind it or am I missing something ?,,
+1135333989859725343,cathyloom,02/24/2024 08:44 AM,I costs 10K to do that. Someone named Bitcoineeft had already recommended this idea. https://decentraland.org/governance/proposal/?id=ea19767c-ec1f-4506-9149-4cd32a305567,,
+1207639438520492032,agadcl,02/24/2024 10:54 AM,Hello everyone  ð,,ð (2)
+408120655351906334,nft_world,02/24/2024 12:42 PM,"@Rafael Ramos advertising isnât allowed here unless itâs directly DCL related, as per rule #6 of #rules. Thanks for your understanding ð",,
+1052595248011935804,Tickets#5253,02/24/2024 12:44 PM,A ticket was created here: #deleted-channel,,
+702729940029800519,metaryuk,02/24/2024 07:50 PM,"A clip compiling the cool stuffs that happened during the event by Decentraland Ambassador @10AK 
+
+https://twitter.com/serenaelis_/status/1761322594991563121",,ð¥ (1)
+1059889776657956894,_cicadaa_,02/24/2024 08:17 PM,@neil_876 and @AGA. Welcome to Decentraland's community server.,,
+1059889776657956894,_cicadaa_,02/24/2024 08:26 PM,"Hello, @Huepow. Maybe I'm wrong, or I misunderstood your concern. However, upon checking our X account, it shows that it is a verified account, and it is confirmed by the blue check badge beside our X account's username. It also shows that it has been a verified account since December 2022. https://twitter.com/decentraland.",,
+894855849640607754,wildy3679,02/24/2024 09:38 PM,"Gello guys!
+Got a DM about mana airdrop from Decentraland...is it real or a scam?
+
+Thanks ð",,
+1059889776657956894,_cicadaa_,02/24/2024 09:40 PM,"Hi, @wildy3679. Decentraland currently doesn't offer any airdrops. The DM you received is 100% a scam. Please check this post and the pinned messages we have on this channel: https://discord.com/channels/417796904760639509/420147899096104961/1168901688875290784.",,ð (1)
+894855849640607754,wildy3679,02/24/2024 09:41 PM,Thanks for the quick reply!,,
+894855849640607754,wildy3679,02/24/2024 09:41 PM,Should I send a screen of the DM or username it was sent from?,,
+894855849640607754,wildy3679,02/24/2024 09:42 PM,Just did in #report-scam,,"ð (1),â¤ï¸ (1)"
+1059889776657956894,_cicadaa_,02/24/2024 09:42 PM,"Yes, please, and report it on the #report-scam channel.",,ð (1)
+1210641052105580605,plush111,02/25/2024 12:29 AM,Hi,,
+912493989721161728,futureghost7392,02/25/2024 01:13 AM,"Submitted a proposal in Governance. Please take a minute to vote on it.. I would like to see a ""Decentraland Community"" in Nifty Island that can be joined by being a Decentraland name holder.",,â¤ï¸ (2)
+1059889776657956894,_cicadaa_,02/25/2024 02:10 AM,"Hey, @Plush. ð Welcome to Decentraland's community server.",,
+1135333989859725343,cathyloom,02/25/2024 06:14 AM,"I believe he was referring to the Gold checkmark and square profile picture
+
+The gold checkmark indicates that the account is an official organization account through Verified Organizations.",,
+1135333989859725343,cathyloom,02/25/2024 06:16 AM,If you have a look at Sandbox and Fortnite they already have this verifications and both logo's are squared instead of being rounded. Once verified they can issue gold badges to other sub-branches within the organization.,,
+747908210400428123,posi5556,02/25/2024 06:30 AM,"Yes,  that's true. HugeWin Casino accounts also have a special mark which indicates their unique and vast bonus service with game experience",,
+1135333989859725343,cathyloom,02/25/2024 06:47 AM,You mean Decentral Games?,,
+702729940029800519,metaryuk,02/25/2024 09:07 AM,Do you know that having a NAME allows you to have a Decentraland WORLDS? Check out this thread! https://twitter.com/DecentralandDAO/status/1761472845320724536,,ð¯ (2)
+954490930717667378,favouraloy98,02/25/2024 12:57 PM,Good morning all,,
+388053082837090304,hueppow,02/25/2024 03:55 PM,It's about Golden checkmark that cost 1000$ per month with benefits and bigger influence. I created proposal to the Foundation about it,,ð«¡ (1)
+539828406511075328,_.valkyr._,02/25/2024 08:08 PM,"GM, @ðSugar! Welcome to Decentraland's Discord server. :dcl:",,
+739451718575849523,charatan166,02/25/2024 09:13 PM,:parrot:,,
+858674706512347155,max88ziger,02/26/2024 02:26 AM,There any metadata ? How much useres monthly online ?,,
+858674706512347155,max88ziger,02/26/2024 02:26 AM,Seems like we are in a massive downtrend,,
+408120655351906334,nft_world,02/26/2024 02:54 AM,Feel free to check https://dcl-metrics.com and https://dclnodes.io,,ð (2)
+781110728307507240,eldanak_dcl,02/26/2024 05:51 PM,"Good morning @THICKy #SubQuery  & @Not-indrO. Please refrain from posting topics unrelated to Decentraland, I would suggest having a look here #rules just so you are aware of the server's rules. That said any unrelated topics that still align with the rules can be posted on the #â£-random â channel. I'll delete your post now. Have both a nice day ð",,
+702729940029800519,metaryuk,02/26/2024 10:33 PM,"@Kaze_no_Kai , im using the client currently and visiting my scene in Genesis. In my Genesis build, there is a URL button where it links to WORLDS. When i click on it, instead of opening or ""teleporting"" it to my scene in WORLDS within the client, it opens up an external web browser instead. Is it possible to constrain it to opening it within the client itself?",,ðµï¸ (1)
+1080168313717526558,patricialove258,02/26/2024 11:01 PM,"@MetaRyuk.eth might be due to the volume but can you please do a hard refresh on your browser CTRL+SHIFT+R (or CMD+SHIFT+R for MAC) or try clearing cache, cookies (just make sure you have a backup for important info especially your seedphrase/privatekey/password) or try another browser preferably Firefox? send me a direct message",,
+702729940029800519,metaryuk,02/26/2024 11:03 PM,"Do you know what i was referring to when i mention ""client"" here?",,
+551105414507528192,zisxo,02/26/2024 11:11 PM,If i leave steam open I can use my controller to move around and stuff lol,,
+673080119723556884,ryanpotato,02/26/2024 11:17 PM,"gm, @RoniD",,
+1080168313717526558,patricialove258,02/26/2024 11:26 PM,"@MetaRyuk.eth I had similar issue I kept having problems with the launcher even after restarting my computer (where the launcher wouldn't even open when I tried to open the app), so I uninstalled Genshin Impact and tried to reinstall it. However, whenever I try to reinstall, I get a message saying ""The client is currently running. Continuing the installation process will close the client!"" And after pressing ""Confirm,"" this message will disappear then reappear after a few moments with no installation progress.",,
+702729940029800519,metaryuk,02/26/2024 11:27 PM,your issue is not the same as mine.,,
+1080168313717526558,patricialove258,02/26/2024 11:27 PM,Check your task manager and find processes related to Genshin and end it. Then try to rerun.,,
+702729940029800519,metaryuk,02/26/2024 11:27 PM,unrelated,,
+673080119723556884,ryanpotato,02/26/2024 11:57 PM,"gm, @Gringo @jykyk :BNV_Logo_128x128_V3: :fah_2024:",,
+897485286085394442,humanbot3465,02/27/2024 12:17 AM,Hello lads - will we hit ATH this bull run ? How long do you all plan to hold ? Whatâs your exit strategy?,,
+1179642177471655946,sirlion0380,02/27/2024 01:30 AM,Hello,,
+539828406511075328,_.valkyr._,02/27/2024 02:07 AM,"Hello, @unclescrooge & @shajaj.ð  Welcome to Decentraland's community server.:dcl:",,
+539828406511075328,_.valkyr._,02/27/2024 02:39 AM,"Howdy, @MetaRyuk.eth. My apologies for the delayed response.ð I've already informed Kaze about it. We will be sure to keep you posted on this ASAP. Thanks!",,
+954490930717667378,favouraloy98,02/27/2024 05:39 AM,Hello guys,,
+1174724766075195392,malcom_vr,02/27/2024 06:42 AM,Hey,,
+702729940029800519,metaryuk,02/27/2024 06:51 AM,Thank u!,,ð (1)
+673080119723556884,ryanpotato,02/27/2024 02:29 PM,"gm, @Geffenz @LordBenalez @bluemoon",,
+1209463306608312322,wow_angel_1,02/27/2024 05:59 PM,Please dm me if you need a developer.,,
+692434495827345519,magdaklauza,02/27/2024 09:20 PM,Hi,,
+1043083389462401146,kaze_no_kai,02/27/2024 11:21 PM,"hey @MetaRyuk.eth try with this:
+import { changeRealm } from '~system/RestrictedActions'
+changeRealm({ realm: 'yourname.dcl.eth' })",,
+702729940029800519,metaryuk,02/27/2024 11:44 PM,"where do i do this? if its in SDK code, i dont think it solves the problem because the WORLDS does not belong to me.. basically there is a scene in Genesis and inside the scene there's a URL button that i can click on to go to another scene in WORLDS. So when i click on the button, instead of going to the WORLDS scene within the client, it opens an external browser instead.",,
+1043083389462401146,kaze_no_kai,02/27/2024 11:47 PM,Can you share the scene in Genesis? If the scene is yours and the above can be included in the scene's code,,
+702729940029800519,metaryuk,02/27/2024 11:50 PM,check DM,,ð (1)
+796578488151965696,jbtg79,02/28/2024 04:59 AM,ð¦,,
+796578488151965696,jbtg79,02/28/2024 05:00 AM,Be ready  to 4$,,
+839745003361533953,ejtime,02/28/2024 08:06 AM,gm,,
+1209463306608312322,wow_angel_1,02/28/2024 08:03 PM,Please dm me if you need a developer.,,
+787725030309888010,levento8521,02/28/2024 08:32 PM,Hi,,
+1103876849601368135,zigg.,02/28/2024 08:34 PM,Hello @-/_\-! Welcome to Decentraland's Discord server. ð«¡,,
+787725030309888010,levento8521,02/28/2024 08:55 PM,Thxð,,
+1052595248011935804,Tickets#5253,02/29/2024 12:59 AM,A ticket was created here: #deleted-channel,,
+907026220443664394,lordlike.eth,02/29/2024 01:06 AM,"Hey DCL! Event is live now! 
+
+https://discord.com/channels/417796904760639509/538106198419832844/1212044032667287582",,
+388053082837090304,hueppow,02/29/2024 01:37 AM,"There was a music playing in Genesis Plaza lobby. It's not playing, at least already for a month.
+
+Have anyone any information about it?",,
+685872252549333132,mr.nocosign,02/29/2024 01:38 AM,Hello,,ð (1)
+1043083389462401146,kaze_no_kai,02/29/2024 01:49 AM,"hey, just checked and i can hear the music, can you check in settings if the volume has not been muted?",,
+1103876849601368135,zigg.,02/29/2024 02:28 AM,"Hello there, @Nocosign! Welcome to Decentraland's Discord server! ð¤",,
+685872252549333132,mr.nocosign,02/29/2024 02:31 AM,Hello,,
+388053082837090304,hueppow,02/29/2024 12:15 PM,All sounds are on maximum but still no music in the genesis plaza lobby. Im on browser,,
+1093650375124451378,j0hnj0hn1,02/29/2024 01:00 PM,"Hi all, long term MANA hodler here.  Are there any migrations, token swaps, forks etc that I need to be aware of?  Some projects change blockchains and set cut off dates to migrate.",,
+1133880009610772593,zule9639,02/29/2024 03:07 PM,"Good afternoon everyone, glad to join your wonderful community!",,ð (2)
+674196154841300993,dg.spira,02/29/2024 04:40 PM,Gm @EB one last question to Ethermon please: is there any link or social for this Mons Studio BVI you can share with us please?,,
+702729940029800519,metaryuk,02/29/2024 06:53 PM,@Kaze_no_Kai skem,,ð (1)
+1129819064827646002,0xharis,02/29/2024 07:28 PM,good morning everyone. wishing y'all an awesome day. ð,,ð (2)
+1052595248011935804,Tickets#5253,02/29/2024 08:08 PM,A ticket was created here: #deleted-channel,,
+539828406511075328,_.valkyr._,02/29/2024 08:25 PM,"Welcome to Decentraland's community server, @zule9639 & @haris .ð¤",,
+539828406511075328,_.valkyr._,02/29/2024 08:59 PM,"Not that I know of. Nonetheless, we will be sure to inform the community of any news or updates regarding that.ð«¡",,
+1052595248011935804,Tickets#5253,03/01/2024 07:58 PM,A ticket was created here: #deleted-channel,,
+442195039183962112,alanigator,03/01/2024 08:20 PM,Great,,
+1059889776657956894,_cicadaa_,03/01/2024 09:05 PM,"Hey, @Alan. We're glad that you made it to Decentraland's community server. ð",,
+885666914968436768,.andrefg,03/01/2024 09:40 PM,Guys i just got an email to check my eligibility to claim mana about Decentraland art week 24? Is it a scam or legit?,,
+1059889776657956894,_cicadaa_,03/01/2024 09:44 PM,"Hello, @-666. The Decentraland Foundation is currently not offering any MANA airdrops: https://discord.com/channels/417796904760639509/420147899096104961/1168901688875290784. That said, the email you received is highly likely a scam. Can you please share a screenshot of the email and the email address of the sender on the #report-scam channel? Thank you.",,ð (1)
+885666914968436768,.andrefg,03/01/2024 09:46 PM,Thanks,,â¤ï¸ (1)
+781758096086269972,zahar2873,03/02/2024 01:38 AM,"Hello, I received an email with mint tokens, is this a scam?",,
+408120655351906334,nft_world,03/02/2024 01:40 AM,Yes. Please report in #report-scam,,
+408120655351906334,nft_world,03/02/2024 06:37 AM,Hey @wow-angel-1 this isnât the right channel for advertising your services but you could try #â£-random instead,,
+1169053107150405735,lmelalisl,03/02/2024 08:03 AM,Hi I'm new there's any way to earn mana token on decentraland metavers,,
+1135680398572138627,crocker7089,03/02/2024 10:01 AM,Yeah,,
+1169053107150405735,lmelalisl,03/02/2024 04:17 PM,"Can you explain the ways? 
+I'm interested",,
+974353182060843048,arttol,03/02/2024 06:35 PM,Hello,,
+449355211652333568,market_mogul,03/02/2024 07:49 PM,"Btw, Mana will reach 4$ in 3 months, remember this!",,
+449355211652333568,market_mogul,03/02/2024 07:50 PM,"I am a trader btw, it broke the weekly chart Line passing through 2021, 2022, 2023 and 2024, now expect a rally, my long position will last 3 months",,
+449355211652333568,market_mogul,03/02/2024 07:52 PM,"And why I say 4$?, because there is a good line passing from 2020, 2021 and 2022 that indicates it till 4$, and after 4$, it will break ATH and reach new ATH",,
+449355211652333568,market_mogul,03/02/2024 07:53 PM,Thank me laterð,,
+1103876849601368135,zigg.,03/02/2024 08:34 PM,"Hello there, @Melalis! Welcome to the Decentraland Discord server. ð«¡ Here, you have the opportunity to accumulate MANA by gathering wearables or emotes and trading them in the Marketplace. Acquiring wearables or emotes involves participating in scenes and gathering the necessary resources to obtain them. Additionally, you can obtain wearables and emotes through events. For details on ongoing and upcoming events, kindly refer to this document: https://decentraland.org/events/.",,
+1103876849601368135,zigg.,03/02/2024 08:34 PM,"Hello there, @ArtTol! Welcome to the Decentraland Discord server. ð«¡",,
+923952900936466475,paulyong_dcl,03/02/2024 08:41 PM,"Decentraland Art Week '24
+
+Dear Decentraland Community Member,
+
+Get ready to immerse yourself in a world of creativity as we kick off Decentraland Art Week '24! From March 26 to 29, we'll be showcasing the incredible artistic talent that flourishes within our virtual realm.
+
+As we countdown to this exciting event, we invite you to join us in exploring the diverse array of artistic expressions that make Decentraland a vibrant and dynamic community.
+
+In conjunction with this special occasion, we're glad to announce a token distribution exclusively for our early Decentraland users as a token of appreciation for their ongoing support and contribution to our platform's growth.
+
+Each eligible user will receive Mana tokens directly to their wallets as we celebrate this milestone together.
+
+Test Your Eligibility: To check if you're eligible to receive Mana tokens as part of this distribution, simply connect your Decentraland-related wallet
+
+
+Claim My $Mana
+Best regards,
+
+
+A player in the Chinese community received this today! Is this a scam?",,
+1103876849601368135,zigg.,03/02/2024 08:50 PM,"Hey @paulyong_dcl! Just a heads up, there's an upcoming event called Decentraland Art Week 2024 | #DCLAW24 in Decentraland. However, there won't be any ""token distribution"" going on. You can grab some cool emotes and wearables during the event, but no tokens will be distributed. Looks like this email might be a scam, so steer clear of sharing personal info or clicking on any sketchy links to keep your account safe.",,
+923952900936466475,paulyong_dcl,03/02/2024 08:51 PM,thank you very much!,,
+1103876849601368135,zigg.,03/02/2024 08:55 PM,"Also, could you share a screenshot of the email along with the sender's email address? This will help us report it and review it with our team. Thank you @paulyong_dcl!",,
+1103876849601368135,zigg.,03/02/2024 09:07 PM,Let me create a ticket for that.,,
+1052595248011935804,Tickets#5253,03/02/2024 09:07 PM,A ticket was created here: #deleted-channel,,
+821102210318467112,pluto8399,03/03/2024 03:43 AM,news@vulcanizadora25deabril.com,,
+821102210318467112,pluto8399,03/03/2024 03:44 AM,"Decentraland Art Week '24
+Dear Decentraland Community Member,
+
+Get ready to immerse yourself in a world of creativity as we kick off Decentraland Art Week '24! From March 26 to 29, we'll be showcasing the incredible artistic talent that flourishes within our virtual realm.
+
+As we countdown to this exciting event, we invite you to join us in exploring the diverse array of artistic expressions that make Decentraland a vibrant and dynamic community.
+
+In conjunction with this special occasion, we're glad to announce a token distribution exclusively for our early Decentraland users as a token of appreciation for their ongoing support and contribution to our platform's growth.
+
+Each eligible user will receive Mana tokens directly to their wallets as we celebrate this milestone together.
+
+Test Your Eligibility: To check if you're eligible to receive Mana tokens as part of this distribution, simply connect your Decentraland-related wallet.
+â
+Claim My $Mana",,
+821102210318467112,pluto8399,03/03/2024 03:44 AM,Got the email just now knew it was a scam. If it too good to be true it always is.,,
+1103876849601368135,zigg.,03/03/2024 03:46 AM,"Hello there, @Pluto! Thanks for bringing this to our attention. I've already notified our team about it.",,
+1213571883870588970,united_quail_28949,03/03/2024 03:50 AM,"Hello There, is there anybody with good builder skills, willing to assist me with land building",,
+1213571883870588970,united_quail_28949,03/03/2024 03:50 AM,thanks,,
+739451718575849523,charatan166,03/03/2024 08:03 PM,good day family,,
+1052595248011935804,Tickets#5253,03/03/2024 08:06 PM,A ticket was created here: #deleted-channel,,
+947691799424663592,discipline7555,03/03/2024 10:02 PM,hello everyone! is there anyone out there whoknows about DCL VR?,,
+539828406511075328,_.valkyr._,03/03/2024 11:01 PM,"Hi there, @Discipline!ð Decentraland is currently not supported on VR; however, a dedicated team that was funded by the DAO is developing further on this. That said, the best place for discussions regarding DCL VR is in Decentraland's DAO Discord. Here's the invite link to the server: https://discord.com/invite/ZdzKgYE5Q3. Thank you!",,
+371040633072254976,keshintenten,03/04/2024 02:58 AM,Where i can acesses Decentraland docs and contract ? the project have telegram group ?,,
+539828406511075328,_.valkyr._,03/04/2024 04:07 AM,"Hello, @Kenshin Playing PlayBit casino. Kindly visit the links below for the docs, contracts, and official Telegram group.ð«¡ 
+https://docs.decentraland.org/
+https://contracts.decentraland.org/links.html
+https://t.me/DecentralandTG",,
+640217943917068308,crashbandicrypto,03/04/2024 07:00 AM,"what do you guys thing of $mog i see it a lot on crypto twitter.. I might dive in, still a low market cap?",,
+702729940029800519,metaryuk,03/04/2024 12:19 PM,@Kaze_no_Kai skem,,ð (1)
+1129819064827646002,0xharis,03/04/2024 07:26 PM,good morning Decentraland. Hope y'all have a great start of the week. :beanheart:,,ð (1)
+1129819064827646002,0xharis,03/04/2024 07:26 PM,good morning Azuki fam. Hope y'all have a great start of the week. :dclgm:,,
+1169053107150405735,lmelalisl,03/05/2024 01:07 AM,No different way to earn token from decentraland,,
+1214275769388503142,nour094963,03/05/2024 02:26 AM,"Hey there,
+I am new to this world. Who can guide me?",,
+539828406511075328,_.valkyr._,03/05/2024 04:16 AM,"You can create your wearables and sell them to the marketplace, but you would need to pay for the publication fee. To learn more about wearable creation, kindly refer to this documentation page: https://docs.decentraland.org/creator/wearables/creating-wearables/.:dcl:",,
+700794972856778792,pacha912,03/05/2024 04:17 AM,is there is any opening for ambassador or Moderators role?,,
+932849859248156742,e12ys,03/05/2024 04:19 AM,hello,,ð (1)
+539828406511075328,_.valkyr._,03/05/2024 04:23 AM,"Welcome to Decentraland's Discord server, @Nour.ð You can start your Decentraland journey by checking out the official documentation page here: https://docs.decentraland.org/ for general information about the platform. You may also visit the events page (https://decentraland.org/events/) for ongoing and upcoming events, and the places page (https://decentraland.org/places/) to check out the different places in the Decentraland world.",,
+539828406511075328,_.valkyr._,03/05/2024 04:45 AM,"There is no opening at the moment for a Moderator role. Regarding the Ambassador program, it is best to discuss this topic on our DAO Discord server here: https://discord.com/invite/ZdzKgYE5Q3 for information and any inquiries about the said program.ð«¡",,
+700794972856778792,pacha912,03/05/2024 04:47 AM,Ok thanks,,ð (1)
+539828406511075328,_.valkyr._,03/05/2024 04:50 AM,"Hello, @e12ys! Welcome to Decentraland's Discord server.ð",,
+456226577798135808,Deleted User,03/05/2024 05:03 AM,"Hey all. My college bait-and-switched me out of a C|EH certification, it's like $6k ast most cause I expected training and a voucher or two. Anyways other than TryHackMe, I'm interested in on-chain proofs like the Proof of Knowledge concept from Ledger... Does anyone know of credentials that I could earn on-chain not for NFT flippings sake but literally just proving what I know when my college wants to crap on my face this way? I ask cause I see the campuses and stuff in Decentraland but don't know their purpose and kinda wonder if I can get my NFTs instead of a diploma given my circumstances of being bait and switched by a college.",,
+882224058714972230,zyzz4940,03/05/2024 07:55 AM,is this a scam?,,
+882224058714972230,zyzz4940,03/05/2024 07:55 AM,the email checking for availability for mana drop,,
+1209463306608312322,wow_angel_1,03/05/2024 09:31 AM,Who needs a developer?,,
+1043083389462401146,kaze_no_kai,03/05/2024 01:27 PM,"hey @Zyzz yes, there is no mana airdrop.",,
+1059889776657956894,_cicadaa_,03/05/2024 09:10 PM,"Hello, @erinjerri. Welcome back! Please allow me to remind you about the #rules of our server and keep your posts related to Decentraland. I will also remove this post from the channel to keep things tidy. You can post topics that aren't DCL-related but still align with our rules on the #â£-random channel.",,
+1052595248011935804,Tickets#5253,03/05/2024 09:11 PM,A ticket was created here: #deleted-channel,,
+1059889776657956894,_cicadaa_,03/05/2024 09:16 PM,"Hello, @! .Derek. Welcome to Decentraland's community server. I see that you also posted this on the #ð¥-share-your-work channel. To keep things organized, please know that we don't tolerate duplicate posts. That said, I will delete this post now. Please review the #rules of the server. Thank you!",,
+581708750172192769,derek1357,03/05/2024 09:16 PM,ok,,ð (1)
+581708750172192769,derek1357,03/05/2024 09:16 PM,many thanks,,
+1059889776657956894,_cicadaa_,03/05/2024 09:25 PM,"Hello, @Deleted User. It's nice to hear from you. I am also unaware of the actual purpose of those campuses in Decentraland. However, one thing I could think of is to improve the publicity of their IRL campuses via those metaverse or virtual representations. On that note, I suggest contacting the owners of the campuses for more detailed information about their scenes/projects, and of course, please DYOR.",,
+371040633072254976,keshintenten,03/06/2024 02:51 AM,many thanks for the information,,
+371040633072254976,keshintenten,03/06/2024 02:51 AM,i would like to report today i received a dm message from a user i'm a little confused,,
+1059889776657956894,_cicadaa_,03/06/2024 02:55 AM,"Hello, @Kenshin Playing PlayBit casino. Please note that the members of the support team will never DM you first. I see that you also reported the user on the appropriate channel, so please rest assured that your report will be taken care of accordingly. Thank you!",,
+371040633072254976,keshintenten,03/06/2024 03:04 AM,i report the picture on the scam report,,
+371040633072254976,keshintenten,03/06/2024 03:05 AM,very sadly to see these people sending dm to scam,,
+309220060214460416,dr.aydin,03/06/2024 03:05 AM,hello,,
+371040633072254976,keshintenten,03/06/2024 03:05 AM,hope to they not robbed anyone,,
+1059889776657956894,_cicadaa_,03/06/2024 03:08 AM,"Indeed. I understand how you're feeling. However, please be guaranteed that we will do our best to keep this Discord server a safe place for all the users, so don't hesitate to report suspicious users from this community who pretend to be a part of the support team.",,
+1059889776657956894,_cicadaa_,03/06/2024 03:09 AM,"Hey, @[COEX] Dr.AydÄ±n. Welcome to Decentraland's community server. ð",,
+388053082837090304,hueppow,03/06/2024 04:21 AM,"Genesis Plaza lobby is still silent ð  theres no music or any sounds from the web and client. My volume setting are all ON
+
+Any information on that?",,
+733154078636507157,chrisnaav,03/06/2024 04:35 AM,Hello,,
+1059889776657956894,_cicadaa_,03/06/2024 04:35 AM,"Hello, @Huepow. I just checked Genesis Plaza on my end, and all the audio elements are working just fine. Can you please confirm if you only experience this in Genesis Plaza? If you've been experiencing the problem in any scene in Decentraland, please consider checking your audio device and its driver. Ensure that your audio device drivers are updated, and check your PC's sound settings to confirm if the sound setting for your browser is enabled to the correct audio output device.",,
+1059889776657956894,_cicadaa_,03/06/2024 04:36 AM,"Hey, @chrisnaav. ð  We're glad that you made it to Decentraland's community server.",,
+733154078636507157,chrisnaav,03/06/2024 04:36 AM,How do I created my own mercyâ= Iâm new to this,,
+733154078636507157,chrisnaav,03/06/2024 04:36 AM,Merch,,
+1059889776657956894,_cicadaa_,03/06/2024 04:41 AM,"hi, @chrisnaav. You can create wearables and emotes on our platform by following the guidelines in this article: https://docs.decentraland.org/creator/wearables/creating-wearables/. If you have knowledge of utilizing a 3D computer graphics software tool like Blender and create 3D models using it, it'll be easy for you to create and publish collections on our platform. I hope this information helps.",,
+388053082837090304,hueppow,03/06/2024 05:15 AM,"I experience this only in Genesis Plaza. I can hear fountain water and other sounds, but no music. On the top of genesis plaza and on the ground floor as well",,
+733154078636507157,chrisnaav,03/06/2024 06:09 AM,I also heard of generating money as a host in aa casino any one has any plugins,,
+802202615113842698,_jackyl_,03/06/2024 07:45 AM,hi all,,
+921129764738174997,renalter4208,03/06/2024 02:56 PM,https://tenor.com/view/ooooohhhh-oops-cat-my-bad-gif-8403217,,
+921129764738174997,renalter4208,03/06/2024 02:57 PM,hello,,
+939757784109555742,whales_mentor,03/06/2024 03:49 PM,Any one gets 4th year airdrop?,,
+1043083389462401146,kaze_no_kai,03/06/2024 04:59 PM,"Hey, there is no MANA airdrop",,
+939757784109555742,whales_mentor,03/06/2024 05:21 PM,Yes.I got it.it was scammed,,ð (1)
+1103876849601368135,zigg.,03/06/2024 08:50 PM,"Thank you for the update. Weird, are you using a web browser to access Decentraland? If so, please attempt to clear your browser's cache and then recheck the sounds in Genesis Plaza. If you are using the desktop application, please consider reinstalling it and then checking again.",,
+1103876849601368135,zigg.,03/06/2024 09:10 PM,"Hello there, you have the freedom to create your own casino scenes. However, it's essential for you to develop the plugins or features required for your scenes on your own.",,
+1103876849601368135,zigg.,03/06/2024 09:17 PM,"Hello and welcome to the Decentraland Discord server. ð«¡ It seems your question has already been addressed in the #sdk channel. To avoid confusion, kindly refrain from reposting the same concern in other channels and please adhere to rule #6 in our #rules. I'll proceed to remove this post. Thanks!",,
+1103876849601368135,zigg.,03/06/2024 09:21 PM,Hello there! Welcome to Decentraland Discord server. ð¤,,
+1103876849601368135,zigg.,03/06/2024 09:30 PM,"Hello there, I understand your current situation. However, your post is not related to Decentraland, so I must remove it. Please adhere to rule #6 of our #rules. Additionally, you're welcome to post this in our #â£-random channel. Thank you for your understanding.",,
+1059889776657956894,_cicadaa_,03/07/2024 01:16 AM,"Greetings, Decentraland Community! 
+
+As we do our best to keep our Discord Community and the users safe from scammers and support team impersonators, we would like to remind you about the things to note to avoid getting victimized by a FAKE Support/Scammer on our Discord server. 
+
+Please note that **a legitimate member of our Support Team will *NOT***:
+- Ask you to access a suspicious link to open a ticket with us,
+- Create a ticket for you outside our Discord server, 
+- Ask you to verify yourself using your wallet or account information,
+- Provide assistance via Direct Messages (DMs) or DM you first.
+
+If you received a suspicious DM or response from someone regarding your concerns/inquiries, please:
+- Avoid providing sensitive account-related information, 
+- Take a screenshot of the conversation and report it on the #report-scam channel.
+
+We will look into your report/s and take appropriate actions against the reported user when necessary. Let's keep our Discord server a safe community for everyone. Thank you all!",,ð (1)
+1059889776657956894,_cicadaa_,03/07/2024 01:16 AM,Pinned a message.,,
+581708750172192769,derek1357,03/07/2024 08:49 AM,"I am a senior Unity and UE5 developer. I have a decent amount of experience in Blockchain Game development.
+I want to get a collaboration with you guys.
+If there is anything you need, feel free to contact me.",,
+1215081263942078466,voice.1,03/07/2024 09:50 AM,"I'm confused about name for avatar , people can choose any available name and sell the name?  Legally?",,
+635305337297305620,jasonx2979,03/07/2024 10:12 AM,"Yes, that is correct, any name that you mint through Decentraland marketplace you can sell. If you purchase a name from secondary marketplaces like rarible, opensea, looksrare or others you can also sell those names. You just have to be sure they are from the right contract address.",,
+635305337297305620,jasonx2979,03/07/2024 10:13 AM,I have some articles on DCL names if you want to learn more.,,
+388053082837090304,hueppow,03/08/2024 12:33 AM,"1. Browser 
+I clean my cash , background music came back to genesis plaza , BUT when you jump to the genesis plaza club (lobby) thereâs still no music 
+
+When you teleport  up to the fountain, the music is gone again and not coming back ( only environment sounds and fountain) 
+
+2. Client 
+I reinstall the client and the same situation like with a browser. Background music came back to genesis plaza but in the club below is still total silence
+
+On client after I go up to the top of genesis plaza , the music is gone again (you can hear only the fountain and environment)",,ðµï¸ (1)
+544861882696204288,proteo4934,03/08/2024 12:39 AM,"@Huepow don't clean your cash o\_O
+Just your cache ^_^'",,ð (2)
+1207053117955375196,ketatok,03/08/2024 12:50 AM,"Hey folks, any chance of getting some free tokens through an airdrop in decentraland?What's the scoop on that? Thanks a bunch!",,
+539828406511075328,_.valkyr._,03/08/2024 01:16 AM,"Decentraland is not offering any airdrops, @Ketato I ETHTbilisi. If you received an email regarding airdrops, it's a scam.ðµï¸ That said, you can share a screenshot of the email and the email address of the sender to the #report-scam channel, and we will forward it to the legal team.ð«¡",,
+576821044267188225,commondrum,03/08/2024 03:16 AM,"Hello, I have a client that wants to have some moderation in their world. Is it possible to analyze the chat and kick somebody out of the session if they violate the rules? I couldn't find any resources on it so if anybody has any info I would be obliged!",,
+1059889776657956894,_cicadaa_,03/08/2024 03:18 AM,"Hey, @Huepow. We did a series of tests in an attempt to reproduce the issue you reported, but we were unsuccessful. The world SFX for Genesis Plaza is working fine on our end. That said, I suggest trying to move to a different scene and teleporting back to GP to see if that fixes the problem. Concerning the world SFX in the lobby scene below GP, it seems that there really isn't a world SFX in that room. However, you may utilize the radio entity near the east entrance of the room to play music. Some channels on that radio are off, but there are a couple of active channels.",,
+544861882696204288,proteo4934,03/08/2024 03:23 AM,This example might help: https://github.com/decentraland-scenes/digital-bouncer,,"ð¯ (1),ð (1)"
+1059889776657956894,_cicadaa_,03/08/2024 03:29 AM,"@CommonDrum, as @Proteus has mentioned, the best suggestion we have is to implement a digital bouncer in your scene. You may also ask around on the #sdk if you require further help with this.",,
+576821044267188225,commondrum,03/08/2024 03:31 AM,Great! It seems like what I was looking for. Thank you and if I have any questions I'll go to #sdk,,ð (2)
+539828406511075328,_.valkyr._,03/08/2024 05:03 AM,"Hello, @malcom.:dcl:  Please follow rule #5 of #rules - No FUD.",,
+424572059994030081,karmawolf,03/08/2024 10:30 PM,"hope i'm in the right chat for this - We've created a stremaing-service (think Netflix) quality documentary series on the history of cryptocurrency and the latest episode features Decentraland. If you are curious feel free to check it out and hopefully this video will help more curious onlookers start their journey within #DCL:
+
+https://www.youtube.com/watch?v=vBgKUxzHXSU",,
+408120655351906334,nft_world,03/09/2024 12:09 AM,"@wow-angel-1 This channel isnât meant to be used as a job board. If youâre looking to advertise your services, feel free to use #â£-random instead so that we can keep it tidy in the main chat here. You were warned once about this already.",,
+794270986274734127,en4ble_1337,03/09/2024 01:30 AM,"Hello, qq are your master nodes incentivized ?! Looked into your kb but couldn't find any info. Thanks in advance https://docs.decentraland.org/contributor/tutorials/how-to-run-a-catalyst/",,
+183099323142242304,hprivakos,03/09/2024 01:34 AM,"No, they are not.",,ð (1)
+924328019638751263,setigio1,03/09/2024 05:15 AM,I received an invitation email to claim mana tokens.  this is true?  Will it be a scam?,,
+1043083389462401146,kaze_no_kai,03/09/2024 05:21 AM,"Hey, It is a scam email for sure, please share the sender's email.",,
+924328019638751263,setigio1,03/09/2024 05:21 AM,ms@msabores.pt,,ð (1)
+1043083389462401146,kaze_no_kai,03/09/2024 05:43 AM,"Thanks, this one was reported ð",,
+791358401229750283,justcheckingin22,03/09/2024 09:27 AM,Hello Everyone.,,
+1113777680068907048,oddly.omar,03/09/2024 10:26 AM,Heyy!!,,
+1113777680068907048,oddly.omar,03/09/2024 10:26 AM,"I'm working on a research article about  decentraland for my cryptocurrency research company and would appreciate some help from the team. If a moderator or someone could take a look at it and provide feedback on a few points, that would be fantastic. Thank you!",,
+1059889776657956894,_cicadaa_,03/09/2024 08:07 PM,"Hey, @JustCheckingIn. ð  Welcome to Decentraland's Discord server.",,
+398892114387402762,cybermike.,03/10/2024 12:34 AM,Yo!,,
+880103128161198093,zackupup,03/10/2024 01:03 AM,:dcl:,,
+1097950194315833496,dreamforger_13075,03/10/2024 01:36 AM,Hello all,,
+1059889776657956894,_cicadaa_,03/10/2024 01:39 AM,"Hello, @DreamForger. Welcome to Decentraland's community server. ð",,
+1097950194315833496,dreamforger_13075,03/10/2024 01:40 AM,What can I do in the virtual world?,,
+1059889776657956894,_cicadaa_,03/10/2024 01:47 AM,"There are a lot of activities you can do in Decentraland. You can join the parties, explore awesome scenes, play games, do quests, and earn free NFTs. You can also create your own scene or create and publish your own collection of wearables and emotes and sell them in the Marketplace. If you'd like to learn more about Decentraland, our Docs page would be the place to start with: https://docs.decentraland.org/player/general/introduction/. ð",,
+1097950194315833496,dreamforger_13075,03/10/2024 01:50 AM,TY,,ð (1)
+310503469331251201,otam.,03/10/2024 05:54 PM,"I joined the 4th birthday celebration of decentraland , I didnt receive the glasses,  here was my submission 
+https://x.com/otamsnr/status/1760419195387363713?s=20
+please any help ð¦",,
+697910109879402587,yotzfurman,03/10/2024 07:53 PM,"Hi ya'll!
+I'm super new to everything that's going on here.
+Last week I got a job in a marketing dept. of a crypto company ad I feel like I need a web3 guru to teach me everything so I can be of use to the company that hired me.
+If anyone feels like taking me under their wing I'd be really honored :pinktaco:",,ð¤ (2)
+1212790557512966164,garrison_99,03/10/2024 09:35 PM,Hello,,
+1212790557512966164,garrison_99,03/10/2024 09:44 PM,Can anyone from team members please connect with me ?,,
+539828406511075328,_.valkyr._,03/10/2024 09:45 PM,"Hi there, @Otam.ð¤  If you are referring to the commemorative wearable, kindly make sure that you follow the instructions mentioned in the 4th Birthday DCL tweet here: https://twitter.com/decentraland/status/1760086858573451393. You can also check out this announcement: https://discord.com/channels/417796904760639509/433376431603580970/1209649262019874827 for more details.ð«¡",,
+539828406511075328,_.valkyr._,03/10/2024 10:02 PM,"Welcome to Decentraland's Discord server, @Garrison! How can we assist you today?ð¤",,
+310503469331251201,otam.,03/10/2024 10:44 PM,"Thank you for your interest, the instructions were completed on time, I am not a novice, I have been actively logging in every day for 3 years and participating in events, this is a situation that has been completely overlooked, I kindly request your attention.",,
+1052595248011935804,Tickets#5253,03/10/2024 10:46 PM,A ticket was created here: #deleted-channel,,
+335191692166561794,acamp18,03/10/2024 11:09 PM,Decentraland?,,
+539828406511075328,_.valkyr._,03/10/2024 11:33 PM,"I appreciate the update, @Otam.ð«¡  I'll go ahead and inquire about this with the team and will keep you posted once I receive an update. Thank you for your understanding on this matter.ð",,ð (1)
+408120655351906334,nft_world,03/11/2024 03:26 AM,"Hey @VoidTopVriv If you're looking to post unrelated content, please refer to rule #6 of the rules. Anything else that is not related to Decentraland but still aligns with our rules can be posted at #â£-random",,
+1033068365369049169,h1tman2950,03/11/2024 04:52 AM,"Hey folks.  New to Decentraland.  Does anyone in the community know if there are plans to covert this to VR platforms, and if so - likely timeframes?  Seems to be like this is more when Decentraland would gain more traction.  Seems quite quiet in here?",,â (2)
+544861882696204288,proteo4934,03/11/2024 05:14 AM,Wen VR ? https://youtu.be/Q_HXs-uaVy8,,
+544861882696204288,proteo4934,03/11/2024 05:15 AM,@H1tMan Wen VR ! https://youtu.be/4lqmtb-Ns90,,
+1216714427701919805,xeila342,03/11/2024 08:03 PM,"Hola a todos.
+Busco trabajo.
+Alguien me puede contactar??",,
+837948987477590067,narcissist5345,03/11/2024 09:05 PM,Anything new,,
+776460999511375922,_nighthawwk,03/11/2024 09:25 PM,"Hi, looking to start playing fun games, any suggestions",,
+539828406511075328,_.valkyr._,03/11/2024 09:31 PM,"Hello, @Xeila. Welcome to Decentraland!:dcl: I translated your message, and if you're looking for work, you may visit the jobs page at https://jobs.lever.co/Decentraland for our current job openings.",,
+539828406511075328,_.valkyr._,03/11/2024 10:11 PM,"We are unable to provide a timeframe on this, and the best place for discussions regarding VR is in Decentraland's DAO Discord. Here's the invite link to the server: https://discord.com/invite/ZdzKgYE5Q3. ð¤",,
+879228085399068712,kimbonft,03/12/2024 02:15 AM,"Welcome, welcome! There is a group here that does weekly tours. I would start there so you can catch some great spots and meet community members. https://decentraland.org/events/event/?id=5a7592ca-0ae2-4f98-92ee-0565140edbab",,
+879228085399068712,kimbonft,03/12/2024 02:17 AM,"hey welcome! Depends on the kind of games you enjoy. 
+
+Metadyne Labs: RatScape (https://decentraland.org/play/?realm=MetadyneLabs.dcl.eth)
+Put your strategizing skills and your gateway-opening blaster to the test to see how fast you can make it through 13 levels of challenges.
+
+The Voice (-99,98)
+Unleash your inner diva in Decentralandâs official âThe Voiceâ experience and impress the judges to win!
+
+Knights of Antrom (144, -7) 
+Gather resources, upgrade your gear, and face off against fearsome enemies as you level up and unlock new abilities.
+
+LaLigaLand (-150,64)
+Perfect for fans of football (soccer), LaLigaLand is full of games, places to explore, and Wearables to collect.",,
+879228085399068712,kimbonft,03/12/2024 02:19 AM,Hey! Kim here from Marketing. Apologies that you were missed. Will make sure it goes out in the next batch!,,ð (3)
+836299546816151603,imthe4239,03/12/2024 02:52 AM,Hello guys what the best way to withdraw MANA from ETH wallet metamask to binance or other way to change it to usdt in any network with normal gas fees?,,
+836299546816151603,imthe4239,03/12/2024 03:03 AM,guys?,,
+1112991435713679452,md.noor,03/12/2024 03:20 AM,Gm,,
+1032766345445658735,render0098,03/12/2024 05:11 AM,To withdraw to your binance account?,,
+836299546816151603,imthe4239,03/12/2024 06:17 AM,situation-- i have 170 mana and wana withdraw from ETH metamask wallet to binance but it is cost 30$ i think it is too mutch,,
+1032766345445658735,render0098,03/12/2024 06:18 AM,Gas fee is very cost at the moment,,ð¥ (1)
+756035631401926760,xavimvela,03/12/2024 06:19 AM,hi i want to buy mana is theere staking?,,
+907127372912930837,ina8250,03/12/2024 08:40 AM,"Hi, I'm a newbie.
+It's not even starting on my computer.ð 
+
+I confirmed my profile, but the screen is frozen.
+
+I'm using Windows 11, is it a security issue?
+
+I'd really appreciate it if someone could help me.",,
+907127372912930837,ina8250,03/12/2024 08:42 AM,Thank you so much!ð,,
+1161598887228883005,anmol_89785,03/12/2024 01:18 PM,"Hi, we are making an anlaytics platform for gamefi similar to coin market cap. We need some help finding data for specifc metrics particularly related to rewards inside the game. Is there someone to talk to? Thnk you.",,
+1069854300819439636,metaversecrypto.,03/12/2024 02:36 PM,"The only real stat is DAS Daily Active Spend. How much money is spent on the platform buying virtual good each day.
+
+This data can be found on-chain
+
+BTW if the data isn't on-chain then its not real. Don't be looking for fake stats where projects ""report"" their own stats",,
+1161598887228883005,anmol_89785,03/12/2024 02:40 PM,"Thank you! Though is there a way to know how much a given land, categorised by locatoin, rarity and size, is able to generate?",,
+1161598887228883005,anmol_89785,03/12/2024 02:42 PM,"I know it is very diverse and largely depends on the player. However, getting data would enable more better approximations",,
+1103876849601368135,zigg.,03/12/2024 08:15 PM,"Hello there, You can't stake MANA directly on Decentraland, but you can do it on a CEX or a DEX. It's a good idea to do your own research and find the platform that fits your needs best. Also, if you want to find out more about buying MANA, check out this document: https://docs.decentraland.org/player/blockchain-integration/get-a-wallet/#what-is-mana-and-how-do-i-get-it.",,
+808576967187890216,bleace,03/12/2024 09:14 PM,Bringing the first World Sleep Day to Virtual Reality this Friday! https://decentraland.org/events/event/?id=c11f8408-9e30-4039-89b5-697dbbc04639,,ð (2)
+1103876849601368135,zigg.,03/12/2024 09:28 PM,"Hey there, it looks like you're having trouble accessing Decentraland. If you're using a web browser, try clearing your browser's cache. If you're using a desktop application, consider reinstalling it and then attempt to access Decentraland again. If the issue persists after trying these solutions, please inform me.",,
+1059889776657956894,_cicadaa_,03/12/2024 09:33 PM,@ONEð¦ Hi. Let's keep all the topics here related to DCL. Unrelated topics that still align with our server's #rules can posted on #â£-random channel.,,
+1059889776657956894,_cicadaa_,03/12/2024 09:36 PM,"Hey, @Md.Noor. ð Welcome to Decentraland's community server.",,
+1052595248011935804,Tickets#5253,03/12/2024 09:39 PM,A ticket was created here: #deleted-channel,,
+1217142900010516612,marry0499,03/13/2024 12:36 AM,Ja,,
+1217142900010516612,marry0499,03/13/2024 12:36 AM,Hello,,
+1217142900010516612,marry0499,03/13/2024 12:36 AM,Hello,,
+1103876849601368135,zigg.,03/13/2024 12:39 AM,"Hello there, Marry! Welcome to Decentraland's Discord server. ð¤",,
+1004586389913993326,iamfloridaman_,03/13/2024 04:08 AM,"Hey, can someone help me form a team of game devs?",,
+1103876849601368135,zigg.,03/13/2024 04:16 AM,"Hey there, this might be helpful in finding verified developers to assist with your project. Please visit this link: https://studios.decentraland.org/studios.",,
+1004586389913993326,iamfloridaman_,03/13/2024 04:17 AM,Thank you!,,ð«¡ (1)
+997620808983789680,cathouseclub,03/13/2024 08:21 AM,Who can help create casino games for land?,,
+594726184755920899,.mrpip,03/13/2024 08:57 AM,"Anyone know why only some buildings, scenery, etc loads? Even after waiting.",,
+594726184755920899,.mrpip,03/13/2024 08:59 AM,"Example: the entry at the starting spot has a diving board and circular cement walkway but now waterfall, no building after going through what used to be water fall, etc.",,
+702729940029800519,metaryuk,03/13/2024 10:15 AM,@Kaze_no_Kai  skem,,ð (1)
+398892114387402762,cybermike.,03/13/2024 01:15 PM,yo mods get to work,,"ð (2),ðµï¸ (1)"
+997620808983789680,cathouseclub,03/13/2024 01:26 PM,Hello Hoyt,,
+1206301733706272774,frey.eth,03/13/2024 07:43 PM,Hello,,
+539828406511075328,_.valkyr._,03/13/2024 08:13 PM,"Hey there, @Cathouse. You may reach out to our verified studios regarding casino game creation via this link: https://studios.decentraland.org/studios.:dcl:",,ð (1)
+539828406511075328,_.valkyr._,03/13/2024 08:25 PM,"Loading times vary depending on the number of assets that are being loaded in the scene and theÂ quality of your internet connection.Â You can clear your browser's cache, reinstall the client (whichever you use), and then check again. Another thing you can do is to lower the ""scene load radius"", which can be found in the in-world general settings.ð",,ð (1)
+897697925256327248,pytha3317,03/14/2024 12:31 AM,Hello,,
+539828406511075328,_.valkyr._,03/14/2024 12:49 AM,"Welcome to Decentraland's Discord server, @Frey.eth & @Pythagoras.ð¤",,
+408120655351906334,nft_world,03/14/2024 04:33 AM,@floridaman Better to use #â£-random channel for that ð,,
+1004586389913993326,iamfloridaman_,03/14/2024 04:33 AM,thx,,ð (1)
+896203144999079956,milly8599,03/14/2024 06:38 AM,yo why wont my sign up bonuous show in game for use,,
+896203144999079956,milly8599,03/14/2024 06:39 AM,bonus*,,
+594726184755920899,.mrpip,03/14/2024 06:57 AM,"Thanks! Iâll try that. I did try setting graphics on lowest settings, but didnât look for that setting specifically. Cool yeah I just have a cheap wifi card in it, hmmm.",,
+879228085399068712,kimbonft,03/14/2024 07:11 AM,hi everyone! Welcome.,,
+192776064450297856,poutsine,03/14/2024 10:31 AM,Hi Kim !,,
+238153114534805504,accusedbold,03/14/2024 01:04 PM,"Hey all, is there any plans for adding more land, or areas to the game?",,
+398892114387402762,cybermike.,03/14/2024 04:22 PM,no,,
+398892114387402762,cybermike.,03/14/2024 06:28 PM,scam,,ð (1)
+238153114534805504,accusedbold,03/14/2024 08:15 PM,Is there a plan to increase player attraction?,,
+398892114387402762,cybermike.,03/14/2024 08:39 PM,https://twitter.com/tangpoko/status/1768109152251858973  https://twitter.com/decentraland  https://decentraland.org/events/,,"â¤ï¸ (1),ð (1)"
+1059889776657956894,_cicadaa_,03/14/2024 08:55 PM,"@Cybermike, thanks for sharing your thoughts. ð  @Accusedbold, those links to our official channels would help you stay updated with any changes and announcements in Decentraland. You can also find the links to all of our official channels here: https://discord.com/channels/417796904760639509/1185240737017761923. Lastly, please feel free to check Decentraland 2024 Manifesto, https://decentraland.org/blog/announcements/decentraland-2024-manifesto-forging-foundations-for-the-future, to learn more about the plans we have for this year. ð",,
+1059889776657956894,_cicadaa_,03/14/2024 09:06 PM,"Hello, @Anmol. It seems that your post is unrelated to Decentraland so I will delete it from the channel now. Please review the #rules of our server. Any unrelated topics that still align with the set of rules we have can be posted on the #â£-random channel. Thanks!",,
+1052595248011935804,Tickets#5253,03/14/2024 10:39 PM,A ticket was created here: #deleted-channel,,
+684114549535670274,shelleyvan,03/15/2024 02:52 AM,"Free Legendary Wearable dropping at 100,77 for the next hour! â¡ï¸ details: https://discord.com/channels/417796904760639509/682659012902518805/1217907837062086768",,
+1008768387926737016,itsmemezaki,03/15/2024 04:24 AM,@Song hey can you hit me up? would like to discuss offer,,
+884473589024297042,zayn8034,03/15/2024 06:15 AM,Is mama airdrop live now?,,
+884473589024297042,zayn8034,03/15/2024 06:15 AM,I rcvd an email,,
+408120655351906334,nft_world,03/15/2024 06:42 AM,No. Please be wary of scams,,
+726453470864867401,goprotrader,03/15/2024 11:21 AM,I received email to claim Mana is it legit?,,
+1160336904907133028,sary32,03/15/2024 11:35 AM,:dclgm:,,
+1160336904907133028,sary32,03/15/2024 11:36 AM,:dclhalloween:,,
+408120655351906334,nft_world,03/15/2024 12:00 PM,No. Be wary of scams,,â (1)
+408120655351906334,nft_world,03/15/2024 12:05 PM,@Swappibro9 Please see rule #5 about spreading FUD,,
+1059889776657956894,_cicadaa_,03/15/2024 08:34 PM,"Hey, @hug0s.eth. Welcome to Decentraland's community server. Please be always guided by our #rules. The channel that best fits this post is the #â£-random channel. I'll remove it from this channel now to keep things tidy. Thanks!",,
+1023505946359636058,_alexkelly,03/15/2024 11:31 PM,"Hello, discovering the metaverse",,
+808576967187890216,bleace,03/15/2024 11:34 PM,"We are Live for World Sleep Day at -8,-55! Also Streaming on YouTube and Twitch for those who can't make it in world!",,parrot (2)
+684114549535670274,shelleyvan,03/15/2024 11:37 PM,@Alexkelly welcome!,,
+1059889776657956894,_cicadaa_,03/16/2024 02:29 AM,Welcome! @Alexkelly,,
+1059889776657956894,_cicadaa_,03/16/2024 03:20 AM,"Hey, @BigBoyeee. Please keep the topics here related to Decentraland and be guided by our server's #rules. Your post will be deleted now.",,
+879228085399068712,kimbonft,03/16/2024 06:02 AM,"Hey hey. Anyone in the SF area next week that wants to join us at GDC, I have a few extra EXPO passes that I can give away to the community ð Email me kim.currier@decentraland.org for more details. Would love to meet you all and hang IRL. We also have 20% off coupons we can give if you want to upgrade.",,â¤ï¸ (3)
+238153114534805504,accusedbold,03/16/2024 06:47 AM,Love that you're giving people the opportunity to do this! Wish I had the money to travel to GDC. Have a great time!,,dcl (2)
+879228085399068712,kimbonft,03/16/2024 07:03 AM,Will be sure to share pics and learnings!,,ð (1)
+702641204017233981,iamjudasjudas,03/16/2024 02:06 PM,"Hey @Kim Currier, I sent you an email re GDC info. YOLO ð",,parrot (3)
+1059889776657956894,_cicadaa_,03/16/2024 08:17 PM,"Hello, @Player1. Please avoid spreading FUD and be always guided by our community server's #rules.",,
+1129819064827646002,0xharis,03/17/2024 02:14 AM,@everyone any experienced in ordinals? I need some help in development plz dm me if you can help. Thanks,,
+1059889776657956894,_cicadaa_,03/17/2024 04:51 AM,"Hey, @hug0s.eth. We don't allow posting of topics unrelated to Decentraland and the shilling of other projects on this server. Please review #rules.",,
+258348828997058562,slumplean,03/17/2024 09:50 AM,"hello, how does one go about inquiring for delegation of an ICE wearble?",,
+258348828997058562,slumplean,03/17/2024 09:50 AM,is this the right spot to ask?,,
+1207639438520492032,agadcl,03/17/2024 07:41 PM,"Hello everyone, need i buy ticker for gdc2024? Im on the way ð",,
+539828406511075328,_.valkyr._,03/17/2024 08:23 PM,"Hi there, @slumplean. Kindly visit the Decentral Games Discord for more details regarding ICE wearable delegation: https://discord.gg/decentralgames. ð¤",,
+1052595248011935804,Tickets#5253,03/17/2024 08:40 PM,A ticket was created here: #deleted-channel,,
+539828406511075328,_.valkyr._,03/17/2024 08:50 PM,"Hey there, @AGA.ð Kindly visit the official GDC website regarding their pass details and pricing via this link: https://gdconf.com/passes-prices.",,
+742830278246006794,zom.eth,03/18/2024 01:42 AM,Is DCL handing out mana awards for this year's Art Week(end)?,,
+742830278246006794,zom.eth,03/18/2024 01:43 AM,... I saw the call for the DJ (paid DJ) for Art Week Awards?,,
+539828406511075328,_.valkyr._,03/18/2024 02:34 AM,"At the moment, I don't have any specifics about whether there will be MANA awards. Nonetheless, we will keep the community posted for more details on the upcoming Decentraland Art Week 2024.ð«¡",,
+742830278246006794,zom.eth,03/18/2024 02:44 AM,"well, ... and it doesn't matter now, it would have been nice to know before they announced for wanting artists that there were Awards/prizes of crypto to be won.  It makes a difference on a few levels.  I know MESH had some voting for cubes and such ... but the rest of Art Week had no such Awards or prizes of crypto last year.",,ð«¡ (1)
+742830278246006794,zom.eth,03/18/2024 02:47 AM,Is all of it happening in the CBD server?  where rules are enforced on some but not Lastraum?,,
+1207639438520492032,agadcl,03/18/2024 03:07 AM,"Hi,  are there any visitor or promotion code? ðââï¸",,
+1207639438520492032,agadcl,03/18/2024 03:19 AM,Visitor ticket*,,
+539828406511075328,_.valkyr._,03/18/2024 04:50 AM,"Not that I know of, but you can check out this post: https://discord.com/channels/417796904760639509/420147899096104961/1218318363013677087 if there are still expo passes that are available.ð",,
+539828406511075328,_.valkyr._,03/18/2024 04:52 AM,"I'm sorry, but I'm not aware of what's happening on the CBD server since I don't have visibility on that server.ð",,
+646732239836676096,hbdruid,03/18/2024 11:53 AM,Who keeps pumping and dumping decentral games ice? ð§ lol,,
+425014662858276874,altcoinradio,03/18/2024 01:31 PM,How would everyone say the community is now a days ?,,
+1129819064827646002,0xharis,03/18/2024 05:38 PM,good morning legends have an awesome start of the week everyone :dcl:,,â¤ï¸ (1)
+1219350470078763008,di4md,03/19/2024 02:33 AM,"Hello everyone, I can't find a valid discord link for decentrale game.. could someone invite me?",,
+410886162895601665,leanmendoza,03/19/2024 02:42 AM,"Hey everone, cross posting a DAO post https://discord.com/channels/894658869391933540/894658869391933543/1219351366653444146",,"ð¯ (2),dcl (2)"
+410886162895601665,leanmendoza,03/19/2024 02:42 AM,Tomorrow we have a Testing Session of the Android explorer ð,,
+879228085399068712,kimbonft,03/19/2024 10:27 AM,"@Zom.eth yes, there are MANA awards for the top MESH cubes this year (which was an Open Call to participate). There was also an Open Call for the community galleries which included MANA awards.",,ð (1)
+965280597280960533,deryaart,03/19/2024 04:22 PM,Hey everyone â¤ï¸ð·,,
+539828406511075328,_.valkyr._,03/19/2024 08:12 PM,"Hey there, @DI4mD.ð  If you are referring to Decentral Games, here's a link to their Discord server: https://discord.gg/decentralgames.",,
+539828406511075328,_.valkyr._,03/19/2024 08:18 PM,"Hello, @Derya Acar! Welcome to Decentraland's Discord server.ð¤",,
+742830278246006794,zom.eth,03/20/2024 12:43 AM,"It would have been nice to know this at the open calls ... I don't recall seeing any mana awards mentioned.  I haven't felt like art'ing since Vertex Jan-Feb 2023, not your fault ... but have had really no motivation due to that experience and fall out.  It's nice to see that you are doing it ... I'm just saying to know that would likely have had some or added to my motivation to art in the metaverse again.",,
+742830278246006794,zom.eth,03/20/2024 12:58 AM,"Last year quite a bit of work, stress, and frustration on my part and I feel on those who were trying to display, meet deadlines, and setup parties for the event, in which nothing was awarded or rewarded as far as 2D arts or to venues participating as far as I know ... so an improvement, but again it would be more enticing to know of such perks/rewards/awards of participation for the time/costs incurred.",,
+742830278246006794,zom.eth,03/20/2024 01:00 AM,"... all in all, I'm just waiting to have time to learn to build here, so I can display my own art and not worry about DCL politics, other venues, or all the other drama, tbh.",,
+879228085399068712,kimbonft,03/20/2024 09:37 AM,Totally understand the work involved which is why we wanted to add the award element. Will continue to do our best to make sure that is all very clear in the submissions. All of our open calls for the past few events have had MANA tied to them and the plan is to continue to do this for our bigger events with community open calls so definitely stay tuned! The next will be for gaming.,,
+879228085399068712,kimbonft,03/20/2024 09:43 AM,Hey all- some exciting press for Art Week! Appreciate your help to share and amplify these amazing artists!  https://x.com/decentraland/status/1770240629920178304?s=20,,
+497717968717742101,erveninja,03/20/2024 03:23 PM,Hello new here,,
+1103876849601368135,zigg.,03/20/2024 08:21 PM,Hey there! Welcome to Decentraland's Discord server! ð¤,,ð (1)
+1208830462198284410,kisonay0214,03/21/2024 01:32 AM,Welcome to the family of beautiful token,,
+701992959922667532,brandonmanus.eth,03/21/2024 05:13 AM,"Sup guys, jus wanna plop this info here, 
+
+Discord itself is having an activity contest. for example when you join a VC you can open up games like checkers or whatever, 
+
+Discords contest is in SDK and has to be web based. 
+
+If yall really want DCL to be put on the map, Discord is a huge avenue. 
+
+Imagine a DCL activity button that when you press it, it opens up a DCL name world(s) and you can be in the call with your friends in the mini DCL thats in calls",,
+701992959922667532,brandonmanus.eth,03/21/2024 05:13 AM,hope someone sees this. also have fun at yall's events â¤ï¸,,
+1212863274966589441,marcomonserrati,03/21/2024 06:20 AM,Ciao a tutta la stupenda comunitÃ  di decentraland,,dcl (1)
+697910109879402587,yotzfurman,03/21/2024 07:03 PM,Can anyone link me to some case studies of crypto projects that did interesting things with Decentraland?,,
+772410203228078101,chestersee,03/21/2024 07:53 PM,:pinktaco:,,"ð (1),ð¥° (1)"
+1052595248011935804,Tickets#5253,03/21/2024 08:11 PM,A ticket was created here: #deleted-channel,,
+544861882696204288,proteo4934,03/21/2024 09:47 PM,Decentraland itself is one heck of an interesting crypto project !,,
+408120655351906334,nft_world,03/22/2024 01:57 AM,"Hey @Shiny I saw that you posted this yesterday too. First, please refrain from tagging everyone. Luckily that feature is disabled in this discord but itâs still bad practice. Second, if you want to promote your services, we donât allow that in this channel but you can try #â£-random instead. Third, please keep the cadence of duplicate posts a respectful number so that it isnât spam ð",,
+879228085399068712,kimbonft,03/22/2024 03:07 AM,hey! we were just talking about this at GDC this week!,,ð (1)
+879228085399068712,kimbonft,03/22/2024 03:07 AM,what type of examples are you looking for?,,
+544861882696204288,proteo4934,03/22/2024 03:20 AM,The subject for a case-study which you might have heard about is probably DCL itself: https://kriptomat.io/cryptocurrencies/decentraland/what-is-decentraland/,,
+539828406511075328,_.valkyr._,03/22/2024 04:12 AM,"Hello, @shanksyy01000. We don't allow the advertising of other projects on our server. Kindly be guided by our #rules. Any topics that aren't related to DCL but align with our rules can be posted on the #â£-random channel. Thank you for understanding.ð«¡",,
+1219650567966822425,lucasmikel246,03/22/2024 06:33 AM,Hello,,
+1219650567966822425,lucasmikel246,03/22/2024 06:33 AM,How are you doing today,,
+544861882696204288,proteo4934,03/22/2024 07:16 AM,@Lucas Mikel Listening to live music in-world ! https://decentraland.org/places/place/?position=100.77,,
+1219650567966822425,lucasmikel246,03/22/2024 07:27 AM,So attractive,,
+408120655351906334,nft_world,03/22/2024 12:48 PM,@å§é¾ Please see rule #5 about spreading FUD in #rules,,
+930863264366215280,psyriiis,03/22/2024 02:21 PM,"I would like to make it possible for people in the dcl community to throw shows at SEED - -104,-95",,â¤ï¸ (1)
+930863264366215280,psyriiis,03/22/2024 02:21 PM,im psyriiis on X or just @ me here,,
+544861882696204288,proteo4934,03/22/2024 02:23 PM,@psyriiis https://decentraland.org/places/place/?position=-104.-95 ã(â§ââ¦)ã,,ð (2)
+930863264366215280,psyriiis,03/22/2024 02:23 PM,I want to  manifest making it possible for people to use bitcoin in Decentraland,,ð¥ (1)
+930863264366215280,psyriiis,03/22/2024 02:24 PM,also when you are at seed just push 4 and your avatar will start puffing,,
+544861882696204288,proteo4934,03/22/2024 02:24 PM,_That_ would require `web3` work,,ð (1)
+930863264366215280,psyriiis,03/22/2024 02:24 PM,our shows are  on the rooftop and threre is a box that allows people to turn on strobes and led's,,ð¥ (1)
+930863264366215280,psyriiis,03/22/2024 02:26 PM,just throwing the idea out there,,
+930863264366215280,psyriiis,03/22/2024 02:26 PM,that;s my thing,,
+930863264366215280,psyriiis,03/22/2024 02:27 PM,i love helping the community grow with no needs of recognition for anything i do i just desire helping in any way I can,,
+544861882696204288,proteo4934,03/22/2024 02:27 PM,Being able to purchase Marketplace items from in-world directly would also be great :),,
+930863264366215280,psyriiis,03/22/2024 02:28 PM,absolutely also somehow connecting bitmaps to decentraland,,
+930863264366215280,psyriiis,03/22/2024 02:28 PM,i dont know anything about the tech,,
+930863264366215280,psyriiis,03/22/2024 02:28 PM,but i just have these ideas,,
+930863264366215280,psyriiis,03/22/2024 02:29 PM,i'm more of a visionary - ideas come to me and i put them out there 24-7.,,
+544861882696204288,proteo4934,03/22/2024 02:29 PM,Maybe the idea is already on Canny. Here's a good way to browse: https://discord.com/channels/894658869391933540/1037057294262882315,,
+930863264366215280,psyriiis,03/22/2024 02:30 PM,â¤ï¸,,
+312109828866834432,ceruleannotserulian,03/22/2024 07:36 PM,just looking around ð,,
+1059889776657956894,_cicadaa_,03/22/2024 08:00 PM,"Hello, @Shiny. Welcome to Decentraland's Community server. Please be always guided by our server's #rules. The channel that best fits your post is the #â£-random channel. I'll remove this from this channel now.",,
+1059889776657956894,_cicadaa_,03/22/2024 08:01 PM,@lapislazuli ð. We're glad that you made it to DCL's community server.,,pinktaco (1)
+1027665342203449494,toxicwaifu.dcl.eth,03/22/2024 10:18 PM,"Last year, we Dogebusters hosted an event where you could mint a wearable in a world using Dogecoin ð We have more events like this planned, but unfortunately, I don't have an exact date yet!",,
+909654127246737469,.kenbory,03/23/2024 08:47 PM,MANA to da moon,,ð (1)
+1059889776657956894,_cicadaa_,03/23/2024 09:34 PM,"Hey, @Shiny. Welcome to Dentraland's community server. Please be always guided by our server's #rules, and don't use the at-everyone tag in your posts. Also, the best place for your post is the #â£-random channel. I will delete this from the channel now to keep things tidy.",,
+539828406511075328,_.valkyr._,03/24/2024 08:21 PM,"Kindly keep your posts here related to Decentraland, @CrissCross. Any topics unrelated to Decentraland that still align with our #rules can be posted on the #â£-random channel. Thank you!ð«¡",,
+611995194820395019,crisscross0316,03/24/2024 08:24 PM,ð«¡,,
+844810687036522527,onlycrypto123,03/24/2024 11:30 PM,Id decentraland still growing or is it dieing?,,
+1097784939665170464,brianevans8114,03/24/2024 11:40 PM,give it more time to expand beyond your imagination,,ð (1)
+539828406511075328,_.valkyr._,03/25/2024 04:58 AM,"Hello, @AuroraMist.ð Let's keep the topics on this channel related to Decentraland. Feel free to post this on the #â£-random channel as long as it aligns with our #rules. Thanks!",,
+551150583168499724,computeruser0,03/25/2024 08:19 AM,"Who would I ask about automatically green listing market.decentraland.org links when clicked inside decentraland?  For example, I tried to buy a coffee on 14,150 and a warning window appeared.",,
+631137469269803019,kdust_,03/25/2024 06:55 PM,"My X was suspended , anyone with some lines there. ?",,
+1103876849601368135,zigg.,03/25/2024 08:12 PM,"Hey there, you can reach out to X support regarding the suspension of your X account. We lack authority over our users' X accounts.",,
+1103876849601368135,zigg.,03/25/2024 08:51 PM,"Hi there, it's quite common. You can select ""Trust this domain"" to avoid seeing this notification or warning again.",,
+631137469269803019,kdust_,03/25/2024 10:10 PM,Automated responses only,,
+1103876849601368135,zigg.,03/25/2024 10:14 PM,"What do you mean by ""automation responses only""? Unfortunately, we can't do anything about the suspension on your X account. That's why we're suggesting you reach out to X support regarding your suspended X account. ð",,
+879228085399068712,kimbonft,03/26/2024 12:55 AM,"unfortunately, it is so hard to get in contact with them! We even have trouble as an official account. Wishing you the best luck!",,
+830856116208271382,directdemocracy,03/26/2024 01:48 AM,anybody knows when the original 2017/8 contributors will receive returns?,,
+1052595248011935804,Tickets#5253,03/26/2024 03:54 AM,A ticket was created here: #deleted-channel,,
+408120655351906334,nft_world,03/26/2024 03:58 AM,Are you talking about District land contributions?,,
+526100583304921092,sinfulmeatstick,03/26/2024 06:01 AM,lmaooooo are you talking about District X ?,,
+809541516472221707,toonimated,03/27/2024 06:13 AM,"bright light glow in golden islamic ramadan lantern and golden Crescent moon decoration, hanging in the air, clean blue navy bakcground, vignette, photo taken with Nikon d750, high quality, commission for --ar 25:14 --stylize 50",,
+1052595248011935804,Tickets#5253,03/27/2024 08:14 PM,A ticket was created here: #deleted-channel,,
+388053082837090304,hueppow,03/27/2024 11:35 PM,How ? Thereâs no claim option on market place and no option as well in DCL,,
+1043083389462401146,kaze_no_kai,03/27/2024 11:40 PM,Can you send me the link please?,,
+1043083389462401146,kaze_no_kai,03/27/2024 11:52 PM,to claim the reward,,
+913060398033408110,deadstarx,03/28/2024 12:22 AM,Hi Im giving away many epic DCL wearables on my twitter post without any raffles,,
+913060398033408110,deadstarx,03/28/2024 12:24 AM,Twitter: DeadstarBTC,,
+1103876849601368135,zigg.,03/28/2024 12:36 AM,"Hey there! I see you also posted this on the #3d-modeling, which is a better fit for this topic. Since this is a duplicate, this post will be removed from this channel immediately. Please avoid making duplicate posts and follow #rules 6. Thank you!",,
+1043083389462401146,kaze_no_kai,03/28/2024 03:40 AM,"Hey All, we have sent the painting ð¨  emote to all users who visited the Art Week but have not received the emote due to the issues we had yesterday. Apologies for the inconvenience ð",,"â¤ï¸ (5),dcl (2)"
+464208367565668363,metxmike,03/28/2024 06:42 AM,ð«¡,,
+591007387276673054,beuno.erc20,03/28/2024 09:49 AM,https://tenor.com/view/hi-gif-27584362,,
+1059889776657956894,_cicadaa_,03/28/2024 08:20 PM,"Hello, @Beuno. We're glad that you made it to Decentraland's Community server. ð",,
+1217027623197081620,leaf057990,03/28/2024 08:37 PM,hi everyone,,
+1059889776657956894,_cicadaa_,03/28/2024 08:38 PM,"Welcome to Decentraland's Community server, @sand. ð",,
+998723577509588992,haj96,03/28/2024 09:18 PM,wasnt the dao given 562m (20% of the initial total supply of 2.81b)? why does the vesting details u guys have here show 222m total to be vested over 10 years? can someone help me understand the discrepency here? Thank you!,,
+998723577509588992,haj96,03/28/2024 09:19 PM,https://vesting.decentraland.org/#/0x7a3abf8897f31b56f09c6f69d074a393a905c1ac,,
+1043083389462401146,kaze_no_kai,03/28/2024 09:24 PM,"hey, you can find the official information on the MANA allocation to the DAO's vesting contract below:
+https://docs.decentraland.org/player/general/dao/overview/the-dao-fund/
+https://decentraland.org/blog/announcements/building-the-foundations-for-a-decentralized-virtual-world#1-dao-allocation",,
+998723577509588992,haj96,03/28/2024 09:28 PM,This still doesn't answer my question,,
+998723577509588992,haj96,03/28/2024 09:29 PM,The initial allocation of MANA (2.81B total supply) allocated 562m to the foundation,,
+998723577509588992,haj96,03/28/2024 09:29 PM,As seen here: https://medium.com/decentraland/the-decentraland-token-sale-terms-81861704c086,,
+998723577509588992,haj96,03/28/2024 09:29 PM,"So how is it that foundation vesting is 222m total? Also, what about vesting for ""Community and Partners"" and ""Team and Early Contributors""",,
+998723577509588992,haj96,03/28/2024 09:30 PM,Is team and early contributors on the 3 year vesting schedule?,,
+998723577509588992,haj96,03/28/2024 09:30 PM,Thanks,,
+1059889776657956894,_cicadaa_,03/28/2024 09:37 PM,"Hello, @Shiny. I saw that we've reminded you before about posting this topic on the correct channel, which is the #â£-random channel. I will remove your post now and you'll be timed out for repeatedly violating the server's #rules.",,
+1043083389462401146,kaze_no_kai,03/28/2024 10:03 PM,The vesting you shared is the DAO vesting contract. As far as i know in 2020 a vesting contract for the DAO was created with 222 M MANA and another vesting contract for the Foundation with the same amount. Also 333 M MANA were burned.,,
+638383933775413275,prksttt,03/28/2024 11:18 PM,Gm,,ð (1)
+183099323142242304,hprivakos,03/29/2024 01:45 AM,And a part was given to BigTime Studio,,ð (1)
+183099323142242304,hprivakos,03/29/2024 01:46 AM,"Early contributors, yes, it already ended. For team, I think it was a bit longer, but probably finished too",,ð (1)
+1059889776657956894,_cicadaa_,03/29/2024 03:55 AM,"Hey, @Dark Polar OF Steel Vale. Let's keep the topics here related to Decentraland, and please be always guided by the server's #rules.",,
+1135333989859725343,cathyloom,03/29/2024 04:06 AM,was this for collaboration or partnership reasons with big time?,,
+183099323142242304,hprivakos,03/29/2024 04:22 AM,"I don't reply to alts, especially the ones whose main account is already banned from this discord and that complain about alts on their proposals created with an alt",,"ð© (1),ð (1)"
+1135333989859725343,cathyloom,03/29/2024 04:37 AM,Your assumptions are all wrong.,,
+804503295409913877,dayz14141414,03/29/2024 06:30 AM,I reported someone for scam will they be kicked?,,
+804503295409913877,dayz14141414,03/29/2024 06:31 AM,@Koen | nERD IS ACTING LIKE AN ADMIN AND TRYING TO STEAL WALLETS,,
+408120655351906334,nft_world,03/29/2024 07:23 AM,I see you reported them in #report-scam already. That is the proper approach. Thanks for reporting ð,,
+804503295409913877,dayz14141414,03/29/2024 07:55 AM,ok cool yea get those pos's outta here,,
+297888798094786560,aaronleupp,03/29/2024 05:06 PM,PAID Looking to someone that can help collect all this data. Of wallet numbers. + if also can collect there social medias so we can let them know they can claim these free DCL Dinos. Open to other ideas as well. Example here is the list of people spent most in Decentraland marketplace or bought most wearables but it only lists top 5. Would like to figure out how we can find more like on opensea etc. May take even a full day of work so open to all rates and time frames. Thanks in advance!,,
+446287504946233357,baybackner,03/29/2024 05:59 PM,Have you seen Dax's new dashboard? https://dcl-metrics.com/users Click on a user for data!,,"â¤ï¸ (1),ð«¡ (1),dcl (1)"
+909992522992980049,cassava1953,03/29/2024 07:02 PM,hey,,ð (1)
+405675392201129985,sevichenko,03/29/2024 07:47 PM,Hi! ðð»ââï¸,,
+1059889776657956894,_cicadaa_,03/29/2024 08:37 PM,"Hey, @sevichenko. Welcome to Decentraland's community server. ð",,â¤ï¸ (1)
+1052595248011935804,Tickets#5253,03/29/2024 08:38 PM,A ticket was created here: #deleted-channel,,
+405675392201129985,sevichenko,03/29/2024 08:40 PM,"Always a pleasure! ðð»ââï¸ hi from valencia, holding $MANA since 2021 ðªð¼",,â¤ï¸ (2)
+405675392201129985,sevichenko,03/29/2024 08:47 PM,Just a while here and already getting scammers DM ð,,
+1059889776657956894,_cicadaa_,03/29/2024 08:51 PM,Please report those scammers on the #report-scam channel and remember that the members of our Support Team will not DM you first. ð,,ð (1)
+1222848247626731573,dreamers5,03/30/2024 12:29 AM,Hi,,
+1059889776657956894,_cicadaa_,03/30/2024 01:25 AM,"Hey, @Bolin. ð Welcome to Decentraland's community server.",,
+784043167870746644,jeremy_dcl,03/30/2024 02:14 AM,"Hi hi, for our DCL Netherlands building I found an autodance floor with two emote files (glb) of  default emotes ""fistpump"" and ""headexplode"". Does anyone know where I can find the glb files of the other default dance emotes like ""tektonik"", ""hammer"" and ""disco""?ð",,
+183099323142242304,hprivakos,03/30/2024 02:34 AM,"You don't need to have the GLB for make an avatar danse, you can use the SDK to trigger any avatar to do a specific emote just with its name",,
+784043167870746644,jeremy_dcl,03/30/2024 02:39 AM,"Hi @HPrivakos  thank you for your message ð The code that I could find for this in the docs, you could only play 1 emote, I would like to play them all, as is the case with the autodance of The Inn and the Bandroom, for example.",,
+1059889776657956894,_cicadaa_,03/30/2024 02:40 AM,"@jeremy_dcl In addition to what HPrivakos has mentioned, here's the article that covers it: https://docs.decentraland.org/creator/development-guide/sdk7/trigger-emotes/.",,
+784043167870746644,jeremy_dcl,03/30/2024 02:40 AM,"Hi thank you for your message  The code that I could find for this in the docs, you could only play 1 emote, I would like to play them all, as is the case with the autodance of The Inn and the Bandroom, for example.",,
+1059889776657956894,_cicadaa_,03/30/2024 02:43 AM,"Hey, @David. Welcome to Decentraland's community server. Please be always guided by our server's #rules. The best place for your post is the #â£-random channel so I will remove it from this channel now. ð",,
+1059889776657956894,_cicadaa_,03/30/2024 02:57 AM,"This repository might help you achieve that goal, @jeremy_dcl: https://github.com/decentraland-scenes/Auto-Dance-Area",,â¤ï¸ (1)
+784043167870746644,jeremy_dcl,03/30/2024 03:13 AM,This was exactly what I was looking for!! Thank you so much for your help @_Cicadaa_ ð,,â¤ï¸ (1)
+297888798094786560,aaronleupp,03/30/2024 10:18 AM,Thank you so much! Any more access since these are top 10 categories but super usual as well. Also would be down to charge us for any mining of these types of services for us? If not all good thanks again for this ! ð«¡:dcl: â¤ï¸,,
+1098848369390133289,mahoney666,03/30/2024 05:54 PM,"Does anyone have issue with claiming last wearable from art week, I mean gold t-shirt? How to solve this, tried so many times...",,
+1098848369390133289,mahoney666,03/30/2024 05:56 PM,When I click on wearable to claim I have message 'You already claimed this wearable!' but nothing received,,
+1059889776657956894,_cicadaa_,03/30/2024 08:18 PM,"Hello, @Mahoney. Please note that the members of our support team will not DM you first to help you with your concerns. If you received a DM from other users asking to access a suspicious link, please don't proceed with it and report it to the #report-scam channel so we can review it. 
+
+Regarding the issue, please know it may take some time for the rewards we claimed to be added to our backpacks. That said, please check your rewards page at https://decentraland.org/rewards/ to see the status of it.",,ð (1)
+965280597280960533,deryaart,03/30/2024 09:21 PM,Happy weekend everyone ð¥°ð¹,,â¤ï¸ (2)
+772485606436896798,finn06806,03/30/2024 11:06 PM,"Hello, I've trouble loading into the game it keeps saying ''Renderer not found'' how to fix this?",,
+1059889776657956894,_cicadaa_,03/30/2024 11:10 PM,"Hi, @Finn0. From the error message you're getting, I'm positive that you're running the Desktop Client. That said, can you please try reinstalling the client and let me know how it goes?",,
+772485606436896798,finn06806,03/30/2024 11:25 PM,"Yes I tried but its still not working, its working on the webbrowser now though so thats fine",,
+1059889776657956894,_cicadaa_,03/30/2024 11:36 PM,"Cool! I'm glad that you were able to sign in via the browser version. If you want to troubleshoot the issue with the Desktop client further, please try to set up the hardware acceleration for the client by following the steps here: https://docs.decentraland.org/player/general/hardware-acceleration/#windows. Additionally, please ensure that your device meets the minimum hardware specs requirement here: https://docs.decentraland.org/player/general/hardware-requirements/. ð",,
+784043167870746644,jeremy_dcl,03/31/2024 01:40 AM,happy weekend! âï¸ ð,,
+862941515079876639,shahvand,03/31/2024 01:45 AM,/imagine,,
+772485606436896798,finn06806,03/31/2024 02:06 AM,Thanks for the help! ð,,â¤ï¸ (1)
+901050017341665281,_sidxo,03/31/2024 02:20 AM,Grats to the Baburugamu Oceans Mini Neon holder â¥ï¸ð°,,
+901050017341665281,_sidxo,03/31/2024 02:20 AM,You lot are legends for all the great fun and inspo I experienced this week ð«¡,,ð«¶ð½ (2)
+398892114387402762,cybermike.,03/31/2024 08:30 AM,mods,,ð (1)
+388053082837090304,hueppow,03/31/2024 09:11 AM,"Hey everyone , I have a question. Since marketplace is multi chain  now , does it mean that you can buy land or rent via polygon network?",,
+830856116208271382,directdemocracy,03/31/2024 09:17 AM,"Thanks, I will do that now.",,
+238717578590027777,lifezoned4,03/31/2024 01:21 PM,"Hi, I am new to decentraland and enjoying my first hour but first question arise. I create a magic.link wallet but also have a hardware wallet can one account have multiple wallets atteched?",,
+238717578590027777,lifezoned4,03/31/2024 01:22 PM,Also another question is what the status on a VR renderer is? Is this still a thing at somepointt? Heard there is development on this topic some time ago.,,
+238717578590027777,lifezoned4,03/31/2024 02:40 PM,Yes? Why the ping?,,
+238717578590027777,lifezoned4,03/31/2024 02:41 PM,Okay ð .. will have a look did not see the option adhoc,,
+1043083389462401146,kaze_no_kai,03/31/2024 05:08 PM,Hey @dFour be careful of any DMs. Each wallet is like a separate profile.,,
+539828406511075328,_.valkyr._,03/31/2024 08:19 PM,"Hey there, @Huepow. Eth MANA is still needed to purchase or rent land.:dcl:",,
+539828406511075328,_.valkyr._,03/31/2024 08:33 PM,"Hi, @dFour. The best place for discussions regarding the status of VR is in Decentraland's DAO Discord. Here's the invite link to the server: https://discord.com/invite/ZdzKgYE5Q3. Thank you for understanding!ð¤",,
